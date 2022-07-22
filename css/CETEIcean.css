@@ -930,6 +930,7 @@ body {
   border: 1px solid #333;
   padding:1em;
   background-color: #fff;
+  border-radius: 3px
 }
 tei-p{
   display: block;
