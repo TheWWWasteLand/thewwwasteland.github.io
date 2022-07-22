@@ -927,3 +927,7 @@ img {
 tei-line {
     white-space: pre;
 }
+tei-text {
+    background-image: url('https://thewwwasteland.github.io/images/bg.jpg');
+    background-size: cover;
+}
