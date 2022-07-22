@@ -937,6 +937,7 @@ tei-p{
 }
 .bar ul {
   list-style-type: none;
+  display: block
 }
 .bar ul li {
   display: inline;
