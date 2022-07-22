@@ -8,7 +8,7 @@
   <script src="js/CETEI.js"></script>
   <script>
     let c = new CETEI();
-    c.getHTML5('fpn-washington.xml', function(data) {
+    c.getHTML5('waste.xml', function(data) {
     document.getElementsByTagName("body")[0].appendChild(data);
     });
   </script>
@@ -19,25 +19,7 @@
       }
     };
     c.addBehaviors(behaviors);
-    </script>
-    <script>
-   CETEIcean.getHTML5("data/example.xml", function(data) {
-   document.getElementById("TEI").appendChild(data)
-
-   var substitutions = document.querySelectorAll("tei-subst")
-   substitutions.forEach( function(subst){
-   subst.querySelector("tei-add").addEventListener("click", function(){
-   var del = subst.querySelector("tei-del")
-   if (window.getComputedStyle(del).getPropertyValue("display") == "none") {
-   del.style.display = "inline"
-   } else {
-   del.style.display = "none"
-   }
-   })
-   })
-   })
   </script>
-
 </head>
 <body>
   
