@@ -919,3 +919,8 @@ html {
   background-color: white;
   color: #292929;
 }
+
+img {
+    width: 50vw;
+}
+
