@@ -940,8 +940,12 @@ tei-p{
 }
 .bar ul li {
   display: inline;
-  float:left;
 }
-
+.left {
+    float:left;
+}
+.right {
+    float:right;
+}
     
 
