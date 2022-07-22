@@ -935,6 +935,10 @@ tei-p{
   display: block;
   text-align:center;
 }
+tei-text {
+    padding-top: 20px;
+}
+    
 .bar ul {
   list-style-type: none;
   display: block
