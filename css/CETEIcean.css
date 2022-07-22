@@ -961,5 +961,7 @@ tei-text {
     float:right;
     margin-left: 5px;
 }
-    
+li img {
+    width: 3vw;
+}
 
