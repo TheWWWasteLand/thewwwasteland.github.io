@@ -1,1 +1,1 @@
-# thewwwasteland.github.io
+# thewwwasteland
