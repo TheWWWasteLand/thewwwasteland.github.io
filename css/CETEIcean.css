@@ -427,6 +427,7 @@ tei-l[data-lineno]:before {
 tei-lb:after {
   content: '\a';
   white-space: pre;
+  line-height: 100%;
 }
 tei-lg {
   display: block;
@@ -922,4 +923,6 @@ html {
 img {
     width: 50vw;
 }
-
+tei-line {
+    white-space: pre;
+}
