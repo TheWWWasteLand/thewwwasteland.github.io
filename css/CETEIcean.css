@@ -313,10 +313,9 @@ tei-filedesc > tei-extent {
 }
 /* f */
 tei-figure {
-  display: block;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  display: inline-block;
+  text-align: left;
+  float:left;
 }
 /* g */
 tei-gap[data-tei-reason='lost']:before {
