@@ -963,5 +963,6 @@ tei-text {
 }
 li img {
     width: 3vw;
+    padding-right: 5px;
 }
 
