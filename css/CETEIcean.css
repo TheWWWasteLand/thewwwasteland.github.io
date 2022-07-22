@@ -936,20 +936,21 @@ tei-p{
   text-align:center;
 }
 tei-text {
-    padding-top: 50px;
+    padding-top: 60px;
     padding-left: 3em;
 }
     
 .bar ul {
   list-style-type: none;
-  display: block
+  display: block;
+  margin-right: 1em;
 }
 .bar ul li {
   display: inline;
   padding-left: 8px;
   padding-right: 8px;
   border-radius: 3px;
-  border: 0.5em solid #333;
+  border: 1px solid #333;
 }
 .left {
     float:left;
