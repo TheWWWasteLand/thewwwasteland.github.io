@@ -926,7 +926,7 @@ img {
 tei-line {
     white-space: pre;
 }
-tei-text {
+body {
   border: 1px solid #333;
   padding:1em;
   background-color: #fff;
