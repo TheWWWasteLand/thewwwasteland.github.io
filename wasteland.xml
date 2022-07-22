@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Waste Land SDE</title>
+                <author>T. S. Eliot</author>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Sebastiano Giacomini</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>First edition, <date>1922</date></edition>
+            </editionStmt>
+            <publicationStmt><publisher>University of Bologna</publisher>
+                <availability status="unknown">
+                    <p>This work is the property of the University of Bologna. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                <msIdentifier>
+                    <settlement>New York</settlement>
+                    <repository>Public Library</repository>
+                    <idno type="Bod">Cup.410.g.63</idno>
+                </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title>The Waste Land</title>
+                            <author>T. S. Eliot</author>
+                            <date>1922</date>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div>
+                <p>
+                    <figure><graphic url="images/1.jpg" xml:id="half"/>
+                    </figure>
+                </p>
+                <p>
+                    <head>
+                        <line>THE WASTE LAND</line>
+                        <line>By</line>
+                        <line>T. S. Eliot</line>
+                    </head>
+                    <quote>
+                        <line>Did he live his life again in every detail of desire, tempta-</line>
+                        <line>tion, and surrender during that supreme moment of complete</line>
+                        <line>knowledge? He cried in a whisper at some image, at some vi-</line>
+                        <line>sion, - he cried out twice, a cry that was no more than a</line>
+                        <line>breath -</line>
+                    </quote>
+                </p>
+            </div>
+        </front>
+    </text>
