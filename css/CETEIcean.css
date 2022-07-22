@@ -933,7 +933,7 @@ tei-text {
   padding:1em;
   background-color: #fff;
 }
-tei-front{
+tei-head tei-line{
   text-align:center;
 }
     
