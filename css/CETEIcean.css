@@ -940,6 +940,7 @@ tei-p{
 }
 .bar ul li {
   display: inline;
+  float:left;
 }
 
     
