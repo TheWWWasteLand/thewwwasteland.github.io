@@ -948,9 +948,7 @@ tei-text {
 .bar ul li {
   display: inline;
   padding-left: 8px;
-  padding-right: 8px;
-  border-radius: 3px;
-  border: 1px solid #333;
+  padding-right: 8px;        
   padding-bottom: 5px;
 }
 .left {
@@ -960,9 +958,11 @@ tei-text {
 .right {
     float:right;
     margin-left: 5px;
+    border-radius: 3px;
+    border: 1px solid #333;
 }
 li img {
     width: 3vw;
-    padding-right: 5px;
+    margin-right: 0px !important;
 }
 
