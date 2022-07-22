@@ -937,6 +937,7 @@ tei-p{
 }
 tei-text {
     padding-top: 50px;
+    padding-left: 3em;
 }
     
 .bar ul {
@@ -945,12 +946,18 @@ tei-text {
 }
 .bar ul li {
   display: inline;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 3px;
+  border: 0.5em solid #333;
 }
 .left {
     float:left;
+    margin-right: 5px;
 }
 .right {
     float:right;
+    margin-left: 5px;
 }
     
 
