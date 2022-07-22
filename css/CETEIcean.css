@@ -921,7 +921,8 @@ html {
 }
 
 img {
-    width: 50vw;
+    width: 40vw;
+    margin-right: 3em
 }
 tei-line {
     white-space: pre;
