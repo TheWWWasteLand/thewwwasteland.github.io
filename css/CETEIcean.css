@@ -425,11 +425,6 @@ tei-lb:after, tei-l:after {
   white-space: pre;
   line-height: 100%;
 }
-tei-lg {
-  display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
 tei-list {
   display: block;
   margin-top: 1em;
@@ -962,6 +957,9 @@ tei-body tei-div {
 }
 .arrows:hover {
     opacity: 1
+}
+#rdg-2 {
+    display: inline-block;
 }
 #rdg-3 {
     display: inline-block;
