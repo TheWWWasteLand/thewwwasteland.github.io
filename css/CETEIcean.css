@@ -969,14 +969,22 @@ tei-body tei-div {
 }
 tei-del {
     display: inline-block;
+}
+
+.total-del {
     background: 
          linear-gradient(to top left,
              rgba(0,0,0,0) 0%,
-             rgba(0,0,0,0) calc(50% - 0.8px),
-             rgba(0,0,0,1) 50%,
-             rgba(0,0,0,0) calc(50% + 0.8px),
+             rgba(0,0,0,0) calc(40% - 0.8px),
+             rgba(0,0,0,1) 40%,
+             rgba(0,0,0,0) calc(40% + 0.8px),
              rgba(0,0,0,0) 100%);
 }
+
+tei-note {
+    display:none;
+}
+
 #note-1 tei-del {
     background: rgba(0,0,0,0) !important;
     text-decoration: line-through;
@@ -986,4 +994,6 @@ tei-del {
     top: 24em;
     line-height: 0.8em;
 }        
-        
+#rdg-5 {
+    display:none;
+}
