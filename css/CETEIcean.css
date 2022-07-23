@@ -988,8 +988,10 @@ tei-note {
 #note-1 tei-del {
     background: rgba(0,0,0,0) !important;
     text-decoration: line-through;
+    text-decoration-color: red;
     position:absolute;
     text-align:right;
+    color: red;
     right: 7vw;
     top: 24em;
     line-height: 0.8em;
