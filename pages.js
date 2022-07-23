@@ -6,7 +6,11 @@ function nextPage() {
 function finalVer() {
   document.getElementById('rdg-2').classList.add('total-del');
   document.getElementById('note-1').style.display="block";
-  document.getElementById('del-4').style.textDecoration = "line-through";
-  document.getElementById('del-5').style.textDecoration = "line-through";
-  document.getElementById('del-6').style.textDecoration = "line-through";
+  document.getElementById('del-4').classList.add('line-del');
+  document.getElementById('del-5').classList.add('line-del');
+  document.getElementById('del-7').classList.add('line-del');
+  document.getElementById('del-8').classList.add('line-del');
+  document.getElementById('del-9.1').classList.add('line-del');
+  document.getElementById('del-9.2').classList.add('line-del');
+  document.getElementById('del-10').classList.add('line-del');
 }
