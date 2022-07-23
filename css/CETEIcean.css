@@ -648,10 +648,6 @@ tei-quote {
 }
 
 /* r */
-tei-app tei-rdg {
-  /*perhaps choice */
-  display:none;
-}
 tei-re {
   display: block;
   margin-top: 0;
