@@ -979,5 +979,8 @@ tei-del {
 #note-1 tei-del {
     background: rgba(0,0,0,0) !important;
     text-decoration: line-through;
+    position:relative;
+    right: 2em;
+    top: 10em;
 }        
         
