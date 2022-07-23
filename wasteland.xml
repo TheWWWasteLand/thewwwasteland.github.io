@@ -50,6 +50,8 @@
                             <line>T. S. Eliot<lb/></line>
                         </head>
                         <quote>
+                    </p>
+                    <p>
                             <line>"Did he live his life again in every detail of desire, tempta-<lb/></line>
                             <line>tion, and surrender during that supreme moment of complete<lb/></line>
                             <line>knowledge? He cried in a whisper at some image, at some vi-<lb/></line>
@@ -58,7 +60,7 @@
                             <line>        'The horror!   The horror!'"<lb/></line>
                         </quote>
                         <ref>    
-                            <line>                                      Conrad .</line>
+                            <line>                                      <app><rdg>Conrad.</rdg></app></line>
                         </ref>
                     </p>
                 </div>
@@ -71,6 +73,40 @@
                     <figure><graphic url="https://thewwwasteland.github.io/images/2.jpg" xml:id="page-1"/>
                     </figure>
                 </p>
+                <p>
+                    <head>
+                        <line>HE DO THE POLICE IN DIFFERENT VOICES: Part I.<lb/></line>
+                        <line><lb/></line>
+                        <line>THE BURIAL OF THE DEAD<lb/></line>
+                    </head>
+                </p>
+                <p><app><rdgGrp xml:id="rdg-2">
+                    <l>First we had a couple of feelers down at Tom'S place</l><lb/>
+                    <l>There was old Tom, boiled to eyes, blind,</l><lb/>
+                    <l>(Don't you remember that time after a dance,</l><lb/>
+                    <l>Top hats and all, we and Silk Hat Harry,</l><lb/>
+                    <l>And old Tom took us behind, brought out a bottle of fizz,</l><lb/>
+                    <l>With old Jane, Tom's Wife; and we got Joe to sing</l><lb/>
+                    <rdg xml:id="rdg-3">
+                        <l>"I'm proud of all the Irish blood that's in me,</l><lb/>
+                        <l>"There's not a man can say a word agin me").</l><lb/>
+                    </rdg>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                </rdgGrp></app></p>
             </div>
         </body>
     </text>
