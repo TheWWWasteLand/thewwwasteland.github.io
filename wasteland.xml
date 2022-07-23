@@ -81,20 +81,20 @@
                         <line>THE BURIAL OF THE DEAD<lb/></line>
                     </head>
                 </p>
-                <p><app><rdgGrp xml:id="rdg-2">
+                <p><app><rdgGrp xml:id="rdg-2"><rdg><del>
                     <l>First we had a couple of feelers down at Tom'S place</l>
                     <l>There was old Tom, boiled to eyes, blind,</l>
                     <l>(Don't you remember that time after a dance,</l>
                     <l>Top hats and all, we and Silk Hat Harry,</l>
                     <l>And old Tom took us behind, brought out a bottle of fizz,</l>
                     <l>With old Jane, Tom's Wife; and we got Joe to sing</l>
-                    <rdg xml:id="rdg-3">
+                    <lg xml:id="rdg-3">
                         <l>"I'm proud of all the Irish blood that's in me,</l>
                         <l>"There's not a man can say a word agin me").</l>
-                    </rdg>
+                    </lg>
                     <l></l><lb/>
                     
-                </rdgGrp></app></p>
+                </del></rdg></rdgGrp></app></p>
             </div>
         </body>
     </text>
