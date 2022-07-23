@@ -929,7 +929,7 @@ body {
 }
 tei-p{
   display: block;
-  text-align:center;
+  padding-left: 3em
 }
 tei-text {
     padding-top: 60px;
