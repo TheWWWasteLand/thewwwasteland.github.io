@@ -106,17 +106,17 @@
                     <l>What d'y' mean, she says, at two o'clock in the morning,</l>
                     <l>I'm not busy here for guys like you;</l>
                     <l>We've only had a raid last week, I've been warned twice.</l>
-                    <l><rdg xml:id="rdg-4"><del>Sergeant, I said</del></rdg>, I've kept a decent house for twenty years,</l>
+                    <l><rdg xml:id="rdg-4"><del xml:id="del-4">Sergeant, I said</del></rdg>, I've kept a decent house for twenty years,</l>
                     <l>There's three gents from the Buckingham Club upstairs now,</l>
                     <l>I'm going to retire and live on a farm, she says,</l>
                     <l>There's no money in it now, what with the damage done,</l>
-                    <l>And the reputation the place gets, <lem>on account</lem><rdg xml:id="rdg-5">off</rdg> of a few bar-flies,</l>
+                    <l>And the reputation the place gets, <lem><del xml:id="del-5">on account</del></lem><rdg xml:id="rdg-5">off</rdg> of a few bar-flies,</l>
                     <l>I've kept a clean house for twenty years, she says,</l>
                     <l>And the gents from Buckingham Club know they're safe here;</l>
                     <l>You was well introduced, but this is the last of you.</l>
                     <l>Get me a woman, I said; you're too drunk, she said,</l>
                     <l>But she gave me a bed, and a bath, and ham and eggs,</l>
-                    <l>And now you go get a shave, she said; <rdg xml:id="rdg-6"><del>I had a good laugh,</del></rdg></l>
+                    <l>And now you go get a shave, she said; <rdg xml:id="rdg-6"><del xml:id="del-6">I had a good laugh,</del></rdg></l>
                     <l></l>
                     <l></l>
                     <l></l>   
