@@ -415,10 +415,6 @@ tei-cell item {
 /* j */
 
 /* l */
-tei-l {
-  display: block;
-  width: 35em;
-}
 tei-l[data-lineno]:before {
   content: attr(data-lineno);
   position: absolute;
