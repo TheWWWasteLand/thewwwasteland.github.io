@@ -963,5 +963,8 @@ tei-body tei-div {
 .arrows:hover {
     opacity: 1
 }
-
+#rdg-3 {
+    border-radius: 3px;
+    border: solid 0.5px #333;
+}
 
