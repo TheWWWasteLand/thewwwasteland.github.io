@@ -963,4 +963,6 @@ li img {
     width: 50px;
     margin-right: 0px !important;
 }
-
+tei-body tei-div {
+    display: none;
+}
