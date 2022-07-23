@@ -964,7 +964,7 @@ tei-body tei-div {
     opacity: 1
 }
 #rdg-3 {
-    display: block;
+    display: inline-block;
     border-radius: 3px;
     border: solid 0.5px #333;
 }
