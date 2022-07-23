@@ -967,6 +967,7 @@ tei-body tei-div {
     border: solid 0.5px #333;
 }
 tei-del {
+    display: inline-block;
     background: 
          linear-gradient(to top right,
              rgba(0,0,0,0) 0%,
