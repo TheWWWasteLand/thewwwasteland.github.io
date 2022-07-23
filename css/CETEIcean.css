@@ -976,7 +976,7 @@ tei-del {
          linear-gradient(to top left,
              rgba(0,0,0,0) 0%,
              rgba(0,0,0,0) calc(52% - 0.8px),
-             rgba(0,0,0,1) 52%,
+             rgba(255,0,0,1) 52%,
              rgba(0,0,0,0) calc(52% + 0.8px),
              rgba(0,0,0,0) 100%);
 }
@@ -997,3 +997,11 @@ tei-note {
 #rdg-5 {
     display:none;
 }
+.line-del {
+   text-decoration: line-through;
+   text-decoration-color: red;
+}
+
+    
+    
+
