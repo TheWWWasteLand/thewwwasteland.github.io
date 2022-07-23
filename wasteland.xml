@@ -81,8 +81,10 @@
                         <line>THE BURIAL OF THE DEAD<lb/></line>
                     </head>
                 </p>
-                <p><app><rdgGrp xml:id="rdg-2"><rdg><del>
-                    <l>First we had a couple of feelers down at Tom'S place</l>
+                <p>
+                    <app>
+                        <rdg><del>
+                    <l>First we had a couple of feelers down at Tom's place</l>
                     <l>There was old Tom, boiled to eyes, blind,</l>
                     <l>(Don't you remember that time after a dance,</l>
                     <l>Top hats and all, we and Silk Hat Harry,</l>
@@ -92,9 +94,25 @@
                         <l>"I'm proud of all the Irish blood that's in me,</l>
                         <l>"There's not a man can say a word agin me").</l>
                     </lg>
-                    <l></l><lb/>
-                    
-                </del></rdg></rdgGrp></app></p>
+                    <l>Then we had dinner in good form, and a couple of Bengal lights.</l>
+                    <l>When we got into the show, up in Row A,</l>
+                    <l>I tried to put my food in the drum, and didn't the girl squeal,</l>
+                    <l>She never did take to me, a nice guy-but rough;</l>
+                    <l>The next thing we were out in the street, Oh was it cold!</l>
+                    <l>When will you be good? Blew in to the Opera Exchange,</l>
+                    <l>Sopped up some gin, sat in to the cork game,</l>
+                    <l>Mr. Fay was there, singing "The Maid of The Mill";</l>
+                    <l>Then we thought we'd breeze along and take a walk.</l>
+                    <l>Then we lost Steve.</l>
+                        </del></rdg>
+                    </app>
+                    <note id="note-1"><del><lg>
+                        <l>Meet me in the shadow of the</l>
+                        <l>watermelon Vine</l>
+                        <l>Eva Iva Uva Emmaline</l>
+                    </lg></del></note>
+                </p>
+                
             </div>
         </body>
     </text>
