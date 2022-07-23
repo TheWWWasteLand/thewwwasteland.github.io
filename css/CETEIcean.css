@@ -935,7 +935,9 @@ tei-text {
     padding-top: 60px;
     padding-left: 3em;
 }
-    
+.bar {
+    display:block;
+}
 .bar ul {
   list-style-type: none;
   display: block;
