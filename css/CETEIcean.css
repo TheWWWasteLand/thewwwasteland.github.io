@@ -420,7 +420,7 @@ tei-l[data-lineno]:before {
   position: absolute;
   left: 2em;
 }
-tei-lb:after, tei-l:after, tei-lg:after {
+tei-lb:after, tei-l:after{
   content: '\a';
   white-space: pre;
   line-height: 100%;
