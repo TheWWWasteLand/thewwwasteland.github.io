@@ -6,7 +6,7 @@ function nextPage() {
 function finalVer() {
   document.getElementById('rdg-2').classList.add('total-del');
   document.getElementById('note-1').style.display="block";
-  document.getElementById('rdg-4').style.textDecoration = "line-through";
-  document.getElementById('rdg-5').style.textDecoration = "line-through";
-  document.getElementById('rdg-6').style.textDecoration = "line-through";
+  document.getElementById('del-4').style.textDecoration = "line-through";
+  document.getElementById('del-5').style.textDecoration = "line-through";
+  document.getElementById('del-6').style.textDecoration = "line-through";
 }
