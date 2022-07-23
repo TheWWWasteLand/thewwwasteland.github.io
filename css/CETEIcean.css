@@ -420,7 +420,7 @@ tei-l[data-lineno]:before {
   position: absolute;
   left: 2em;
 }
-tei-lb:after, tei-l:after {
+tei-lb:after, tei-l:after, tei-lg:after {
   content: '\a';
   white-space: pre;
   line-height: 100%;
@@ -976,3 +976,8 @@ tei-del {
              rgba(0,0,0,0) calc(50% + 0.8px),
              rgba(0,0,0,0) 100%);
 }
+#note-1 tei-del {
+    background: rgba(0,0,0,0) !important;
+    text-decoration: line-through;
+}        
+        
