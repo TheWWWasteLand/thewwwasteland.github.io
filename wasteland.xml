@@ -38,7 +38,7 @@
         <front>
             <titlePage>
                 <pb xml:id="wasteland-i" n="i"/>
-                <div>
+                <div xml:id="page-i" >
                     <p>
                         <figure><graphic url="https://thewwwasteland.github.io/images/1.jpg" xml:id="page-1"/>
                         </figure>
@@ -55,7 +55,7 @@
                             <line>knowledge? He cried in a whisper at some image, at some vi-<lb/></line>
                             <line>sion, - he cried out twice, a cry that was no more than a<lb/></line>
                             <line>breath -<lb/></line>
-                            <line>        'The horror!   The horror'"<lb/></line>
+                            <line>        'The horror!   The horror!'"<lb/></line>
                         </quote>
                         <ref>    
                             <line>                                      Conrad .</line>
@@ -66,7 +66,7 @@
         </front>
         <body>
             <pb xml:id="wasteland-1" n="1"/>
-            <div>
+            <div xml:id="page-2">
                 <p>
                     <figure><graphic url="https://thewwwasteland.github.io/images/2.jpg" xml:id="page-1"/>
                     </figure>
