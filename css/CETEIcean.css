@@ -968,4 +968,12 @@ tei-body tei-div {
     border-radius: 3px;
     border: solid 0.5px #333;
 }
-
+tei-del {
+    background: 
+         linear-gradient(to top right,
+             rgba(0,0,0,0) 0%,
+             rgba(0,0,0,0) calc(50% - 0.8px),
+             rgba(0,0,0,1) 50%,
+             rgba(0,0,0,0) calc(50% + 0.8px),
+             rgba(0,0,0,0) 100%);
+}
