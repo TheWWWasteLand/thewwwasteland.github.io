@@ -1026,12 +1026,11 @@ tei-graphic img {
 }    
 
 tei-add {
+    display: none;
     color: red;
 }
 tei-l {
     margin-left: 2em;
 }
-.hidden {
-    display: none;
-}
+
 
