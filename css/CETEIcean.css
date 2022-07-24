@@ -1026,5 +1026,8 @@ tei-graphic img {
   width: 180px;
   height: 180px;
 }    
-    
+
+tei-add {
+    display: none;
+}
 
