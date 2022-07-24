@@ -13,7 +13,7 @@ function finalVer() {
   document.getElementById('del-9.1').classList.add('line-del');
   document.getElementById('del-9.2').classList.add('line-del');
   document.getElementById('del-10').classList.add('line-del');
-  document.getElemenyById('add-1').style.display="inline-block";
+  document.getElemenyById('add-1').style.display="inline";
 };
 
 function magnify(imgID, zoom) {
