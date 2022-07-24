@@ -1009,7 +1009,7 @@ tei-note {
 }
 * {box-sizing: border-box;}
 
-.img-magnifier-container {
+tei-graphic {
   position:relative;
 }
 
