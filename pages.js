@@ -51,9 +51,9 @@ function magnify(imgID, zoom) {
     if (y < h / zoom) {y = h / zoom;}
     /*set the position of the magnifier glass:*/
     glass.style.left = (x - w) + "px";
-    glass.style.top = (y - h) + "px";
+    glass.style.top = (y) + "px";
     /*display what the magnifier glass "sees":*/
-    glass.style.backgroundPosition = "-" + ((x * zoom) - w + bw) + "px -" + ((y * zoom) - h + bw - 1200) + "px";
+    glass.style.backgroundPosition = "-" + ((x * zoom) - w + bw) + "px -" + ((y * zoom) - h + bw) + "px";
   }
   function getCursorPos(e) {
     var a, x = 0, y = 0;
