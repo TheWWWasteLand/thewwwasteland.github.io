@@ -13,8 +13,9 @@ function finalVer() {
   document.getElementById('del-9.1').classList.add('line-del');
   document.getElementById('del-9.2').classList.add('line-del');
   document.getElementById('del-10').classList.add('line-del');
-  document.getElemenyById('add-1').style.cssText="display: inline !important";
-  document.getElemenyById('add-2').style.cssText="display: inline !important";
+  document.getElementById('del-11').classList.add('line-del');
+  document.getElemenyById('add-1').style.cssText="display: inline";
+  document.getElemenyById('add-2').style.cssText="display: inline";
 };
 
 function magnify(imgID, zoom) {
