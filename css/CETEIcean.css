@@ -996,7 +996,7 @@ tei-note {
     top: 24em;
     line-height: 0.8em;
 }        
-#rdg-5 {
+#rdg-5, #rdg-10 {
     display:none;
 }
 .line-del {
@@ -1004,6 +1004,9 @@ tei-note {
    text-decoration-color: red;
 }
 
+#rdg-10 {
+    padding-left: -2em;
+}
     
     
 
