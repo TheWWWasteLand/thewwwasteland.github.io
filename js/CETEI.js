@@ -278,6 +278,9 @@ var CETEI = (function () {
       "teiHeader": function(e) {
         this.hideContent(e, false);
       },
+      "add": function() {
+        this.setAttribute("class", "hidden")
+      },
       "title": [
         ["tei-titlestmt>tei-title", function(elt) {
           let title = document.createElement("title");
