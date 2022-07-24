@@ -1003,7 +1003,7 @@ tei-note {
 }
 
 #rdg-10 {
-    padding-left: -2em;
+    left: -2em;
 }
 * {box-sizing: border-box;}
 
