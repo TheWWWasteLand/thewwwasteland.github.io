@@ -1031,5 +1031,7 @@ tei-add {
 tei-l {
     margin-left: 2em;
 }
-
+.hidden {
+    display: none;
+}
 
