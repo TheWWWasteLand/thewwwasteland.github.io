@@ -902,8 +902,7 @@ html {
 }
 
 img {
-    width: 600px;
-    height: 1200px;
+    width: 40vw;
     margin-right: 3em
 }
 tei-line {
