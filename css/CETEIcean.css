@@ -1026,8 +1026,6 @@ tei-graphic img {
 
 tei-add {
     color: red;
-    text-decoration: line-through;
-    text-decoration-color: red;
     line-height: 2em;
 }
 
