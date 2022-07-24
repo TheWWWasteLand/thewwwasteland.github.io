@@ -76,16 +76,11 @@ function magnify(imgID, zoom) {
   <img src="https://cdn-icons-png.flaticon.com/512/271/271228.png" style='width:45px; position:fixed; right: -30px; bottom: 45vh' onclick="nextPage()" class="arrows">
   <div class='bar'>
     <ul>
-      <li class="left"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Circle-icons-document.svg"></li>
+      <li class="left"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Circle-icons-document.svg" onclick="magnify('page-i-pic', 3)"></li>
       <li class="left"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Circle-icons-image.svg"></li>
       <li class="right" onclick="finalVer()"><p>Show final version</li>
       <li class="right"><p>Show editio princeps</li>
     </ul>      
   </div>
-  <script>
-  /* Initiate Magnify Function
-  with the id of the image, and the strength of the magnifier glass:*/
-  magnify("page-i-pic", 3);
-  </script>
 </body>
 </html>
