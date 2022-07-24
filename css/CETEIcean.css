@@ -1029,10 +1029,8 @@ tei-add {
     color: red;
     text-decoration: line-through;
     text-decoration-color: red;
-}
-.tei-add-appearing {
-    display: block !important;
     line-height: 2em;
 }
+
 
 
