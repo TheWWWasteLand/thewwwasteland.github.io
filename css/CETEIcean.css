@@ -1027,6 +1027,8 @@ tei-graphic img {
 tei-add {
     color: red;
 }
-
+tei-l {
+    padding-left: 2em;
+}
 
 
