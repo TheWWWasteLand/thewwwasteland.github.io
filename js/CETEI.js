@@ -189,6 +189,9 @@ var CETEI = (function () {
         if (elt.hasAttribute("height")) {
           content.setAttribute("height",elt.getAttribute("height"));
         }
+        if (elt.hasAttribute("id")) {
+          content.setAttribute("id", elt.getAttribute("id"));
+        }
         return content;
       },
       "list": [
