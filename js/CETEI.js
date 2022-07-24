@@ -190,7 +190,7 @@ var CETEI = (function () {
           content.setAttribute("height",elt.getAttribute("height"));
         }
         if (elt.hasAttribute("id")) {
-          content.setAttribute("id", elt.getAttribute("id"));
+          content.setAttribute("id", (elt.getAttribute("id") + "-pic"));
         }
         return content;
       },
