@@ -996,9 +996,7 @@ tei-note {
     top: 24em;
     line-height: 0.8em;
 }        
-#rdg-5, #rdg-10 {
-    display:none;
-}
+
 .line-del {
    text-decoration: line-through;
    text-decoration-color: red;
@@ -1028,5 +1026,13 @@ tei-graphic img {
 
 tei-add {
     display: none;
+    color: red;
+    text-decoration: line-through;
+    text-decoration-color: red;
 }
+.tei-add-appearing {
+    display: block !important;
+    line-height: 2em;
+}
+
 
