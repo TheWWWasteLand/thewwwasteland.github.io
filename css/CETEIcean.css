@@ -313,7 +313,7 @@ tei-filedesc > tei-extent {
 }
 /* f */
 tei-figure {
-
+  display: inline-block;
   text-align: left;
   float:left;
 }
