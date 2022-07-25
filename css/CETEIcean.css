@@ -1001,10 +1001,6 @@ tei-note {
    text-decoration: line-through;
    text-decoration-color: red;
 }
-
-#add-2 {
-    color: red;
-}
 * {box-sizing: border-box;}
 
 tei-graphic {
@@ -1024,7 +1020,7 @@ tei-graphic img {
   height: 180px;
 }    
 
-#add-1, #add-2 {
+tei-add {
     color: red;
 }
 tei-l {
