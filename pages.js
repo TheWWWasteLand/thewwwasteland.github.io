@@ -9,7 +9,7 @@ function nextPage() {
     document.getElementById('add-1').classList.add('hidden');
     document.getElementById('add-2').classList.add('hidden');
   }
-  if (one.getAttribute('style') == "display: block;") {
+  else if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
     two.style.display="block";
   }
