@@ -12,6 +12,7 @@ function nextPage() {
   if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
     two.style.display="block";
+  }
 };
 
 function finalVer() {
