@@ -911,6 +911,7 @@ tei-line {
 body {
   border: 1px solid #333;
   padding:1em;
+  background-image: url('https://thewwwasteland.github.io/images/bg.jpg');
   background-color: #fff;
   border-radius: 3px;
   overflow: auto;
