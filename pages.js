@@ -1,12 +1,17 @@
 function nextPage() {
-  var i;
+  var i, one, two;
   i = document.getElementById('page-i');
+  one = document.getElementById('page-2');
+  two = document.getElementById('page-3')
   if (i.getAttribute('style') != "display: none;") {
     i.style.display="none";
-    document.getElementById('page-2').style.display="block";
+    one.style.display="block";
     document.getElementById('add-1').classList.add('hidden');
     document.getElementById('add-2').classList.add('hidden');
   }
+  if (one.getAttribute('style') == "display: block;") {
+    one.style.display="none";
+    two.style.display="block";
 };
 
 function finalVer() {
