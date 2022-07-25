@@ -2,7 +2,6 @@ function nextPage() {
   document.getElementById('page-i').style.display="none";
   document.getElementById('page-2').style.display="block";
   document.getElementById('add-1').classList.add('hidden');
-  document.getElementById('add-2').classList.add('hidden');
 };
 
 function finalVer() {
