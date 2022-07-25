@@ -147,6 +147,20 @@
                 </note>
                 
             </div>
+            <pb xml:id="wasteland-2" n="2"/>
+            <div xml:id="page-3">
+                <p>
+                    <figure><graphic url="https://thewwwasteland.github.io/images/3.jpg" xml:id="page-2"/>
+                    </figure>
+                </p>
+                <p>
+                    <head>
+                        <line>HE DO THE POLICE IN DIFFERENT VOICES: Part I.<lb/></line>
+                        <line><lb/></line>
+                        <line>THE BURIAL OF THE DEAD<lb/></line>
+                    </head>
+                </p>
+                <p>
         </body>
     </text>
 </TEI>
