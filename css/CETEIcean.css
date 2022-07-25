@@ -931,6 +931,7 @@ tei-text {
   list-style-type: none;
   display: block;
   margin-right: 1em;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 .bar ul li {
   display: inline;
