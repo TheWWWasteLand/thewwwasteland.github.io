@@ -15,6 +15,21 @@ function nextPage() {
   }
 };
 
+function prevPage() {
+  var i, one, two;
+  i = document.getElementById('page-i');
+  one = document.getElementById('page-2');
+  two = document.getElementById('page-3')
+  if (one.getAttribute('style') == "display: block;") {
+    one.style.display="none";
+    i.style.display="block";
+  }
+  else if (two.getAttribute('style') == "display: block;") {
+    two.style.display="block";
+    one.style.display="block";
+  }
+};
+
 function finalVer() {
   document.getElementById('rdg-2').classList.add('total-del');
   document.getElementById('note-1').style.display="block";
