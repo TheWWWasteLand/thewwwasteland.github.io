@@ -26,7 +26,7 @@ function prevPage() {
   }
   else if (two.getAttribute('style') == "display: block;") {
     two.style.display="block";
-    one.style.display="block";
+    one.style.display="none";
   }
 };
 
