@@ -36,7 +36,7 @@ function finalVer() {
   one = document.getElementById('page-2');
   two = document.getElementById('page-3')
   if (i.getAttribute('style') != "display: none;") {
-    document.getElementByTagName("tei-ref").style.display="block";
+    document.getElementById("rdg-1").style.display="inline";
   }
   else if (one.getAttribute('style') == "display: block;") {
     document.getElementById('rdg-2').classList.add('total-del');
