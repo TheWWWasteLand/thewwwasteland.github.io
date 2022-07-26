@@ -1029,4 +1029,6 @@ tei-add {
 .hidden {
     display: none;
 }
-
+tei-ref {
+    display:none;
+}
