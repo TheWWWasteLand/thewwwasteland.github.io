@@ -31,18 +31,27 @@ function prevPage() {
 };
 
 function finalVer() {
-  document.getElementById('rdg-2').classList.add('total-del');
-  document.getElementById('note-1').style.display="block";
-  document.getElementById('del-4').classList.add('line-del');
-  document.getElementById('del-5').classList.add('line-del');
-  document.getElementById('del-7').classList.add('line-del');
-  document.getElementById('del-8').classList.add('line-del');
-  document.getElementById('del-9.1').classList.add('line-del');
-  document.getElementById('del-9.2').classList.add('line-del');
-  document.getElementById('del-10').classList.add('line-del');
-  document.getElementById('del-11').classList.add('line-del');
-  document.getElemenyById('add-1').classList.remove('hidden');
-  document.getElementById('add-2').classList.remove('hidden');
+  var i, one, two;
+  i = document.getElementById('page-i');
+  one = document.getElementById('page-2');
+  two = document.getElementById('page-3')
+  if (i.getAttribute('style') != "display: none;") {
+    document.getElementByTagName("tei-ref").style.display="block";
+  }
+  else if (one.getAttribute('style') == "display: block;") {
+    document.getElementById('rdg-2').classList.add('total-del');
+    document.getElementById('note-1').style.display="block";
+    document.getElementById('del-4').classList.add('line-del');
+    document.getElementById('del-5').classList.add('line-del');
+    document.getElementById('del-7').classList.add('line-del');
+    document.getElementById('del-8').classList.add('line-del');
+    document.getElementById('del-9.1').classList.add('line-del');
+    document.getElementById('del-9.2').classList.add('line-del');
+    document.getElementById('del-10').classList.add('line-del');
+    document.getElementById('del-11').classList.add('line-del');
+    document.getElemenyById('add-1').classList.remove('hidden');
+    document.getElementById('add-2').classList.remove('hidden');
+  }
 };
 
 function magnify(imgID, zoom) {
