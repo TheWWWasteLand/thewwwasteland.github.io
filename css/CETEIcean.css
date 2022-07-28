@@ -1002,6 +1002,7 @@ tei-note {
 }        
 
 #note-2 {
+    position:absolute;
     color: red;
     right: 7vw;
     top: 26.4em;
