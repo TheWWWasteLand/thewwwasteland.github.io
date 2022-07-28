@@ -51,7 +51,6 @@ function finalVer() {
     document.getElementById('del-8.1').classList.add('line-del');
     document.getElementById('del-8.2').classList.add('line-del');
     document.getElementById('del-10').classList.add('line-del');
-    document.getElementById('del-11').classList.add('line-del');
     document.getElemenyById('add-1').classList.remove('hidden');
     document.getElementById('add-2').classList.remove('hidden');
     document.getElementById('add-3').classList.remove('hidden');
