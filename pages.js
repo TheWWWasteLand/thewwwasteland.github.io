@@ -40,6 +40,7 @@ function finalVer() {
     document.getElementById("rdg-1").style.display="inline";
   }
   else if (one.getAttribute('style') == "display: block;") {
+    document.getElemenyById('add-1').classList.remove('hidden');
     document.getElementById('rdg-2').classList.add('total-del');
     document.getElementById('note-1').style.display="block";
     document.getElementById('del-4').classList.add('line-del');
@@ -51,7 +52,6 @@ function finalVer() {
     document.getElementById('del-8.1').classList.add('line-del');
     document.getElementById('del-8.2').classList.add('line-del');
     document.getElementById('del-10').classList.add('line-del');
-    document.getElemenyById('add-1').classList.remove('hidden');
     document.getElementById('add-2').classList.remove('hidden');
     document.getElementById('add-3').classList.remove('hidden');
   }
