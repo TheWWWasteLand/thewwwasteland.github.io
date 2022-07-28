@@ -54,7 +54,7 @@ function finalVer() {
   }
   else if (two.getAttribute('style') == "display: block;") {
     const arrow = document.createElement("img");
-    arrow.setAttribute('src', 'https://thewwwasteland.github.io/images/arrow1.jpg');
+    arrow.setAttribute('src', 'https://thewwwasteland.github.io/images/arrow1.png');
     arrow.setAttribute('id', 'back-1');
     document.body.appendChild(arrow);
   }
