@@ -1026,10 +1026,10 @@ tei-graphic img {
 
 tei-add {
     color: red;
-    display: inline-block;
+    display: none;
 }
 .hidden {
-    display: none;
+    display: inline-block;
 }
 #rdg-1 {
     display:none;
