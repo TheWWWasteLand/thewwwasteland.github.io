@@ -57,6 +57,7 @@ function finalVer() {
     arrow.setAttribute('src', 'https://thewwwasteland.github.io/images/arrow1.jpg');
     arrow.setAttribute('id', 'back-1');
     document.body.appendChild(arrow);
+  }
 };
 
 function magnify(imgID, zoom) {
