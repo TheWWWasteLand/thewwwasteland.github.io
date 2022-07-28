@@ -6,7 +6,7 @@ function nextPage() {
   if (i.getAttribute('style') != "display: none;") {
     i.style.display="none";
     one.style.display="block";
-    document.getElementById('add-1').style.display="none";
+    document.getElementById('add-1').classList.add('hidden');
     document.getElementById('add-2').classList.add('hidden');
     document.getElementById('add-3').classList.add('hidden');
   }
@@ -40,7 +40,7 @@ function finalVer() {
     document.getElementById("rdg-1").style.display="inline";
   }
   else if (one.getAttribute('style') == "display: block;") {
-    document.getElemenyById('add-1').style.display="inline-block";
+    document.getElemenyById('add-1').classList.toggle("hidden");
     document.getElementById('rdg-2').classList.add('total-del');
     document.getElementById('note-1').style.display="block";
     document.getElementById('note-2').style.display="block";
