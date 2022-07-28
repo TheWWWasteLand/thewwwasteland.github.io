@@ -52,6 +52,11 @@ function finalVer() {
     document.getElemenyById('add-1').classList.remove('hidden');
     document.getElementById('add-2').classList.remove('hidden');
   }
+  else if (two.getAttribute('style') == "display: block;") {
+    const arrow = document.createElement("img");
+    arrow.setAttribute('src', 'https://thewwwasteland.github.io/images/arrow1.jpg');
+    arrow.setAttribute('id', 'back-1');
+    document.body.appendChild(arrow);
 };
 
 function magnify(imgID, zoom) {
