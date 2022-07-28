@@ -8,6 +8,7 @@ function nextPage() {
     one.style.display="block";
     document.getElementById('add-1').classList.add('hidden');
     document.getElementById('add-2').classList.add('hidden');
+    document.getElementById('add-3').classList.add('hidden');
   }
   else if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
@@ -51,6 +52,7 @@ function finalVer() {
     document.getElementById('del-11').classList.add('line-del');
     document.getElemenyById('add-1').classList.remove('hidden');
     document.getElementById('add-2').classList.remove('hidden');
+    document.getElementById('add-3').classList.remove('hidden');
   }
   else if (two.getAttribute('style') == "display: block;") {
     const arrow = document.createElement("img");
