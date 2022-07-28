@@ -44,10 +44,12 @@ function finalVer() {
     document.getElementById('note-1').style.display="block";
     document.getElementById('del-4').classList.add('line-del');
     document.getElementById('del-5').classList.add('line-del');
-    document.getElementById('del-7').classList.add('line-del');
-    document.getElementById('del-8').classList.add('line-del');
-    document.getElementById('del-9.1').classList.add('line-del');
-    document.getElementById('del-9.2').classList.add('line-del');
+    document.getElementById('del-6').classList.add('line-del');    
+    document.getElementById('del-7.1').classList.add('line-del');
+    document.getElementById('del-7.2').classList.add('line-del');
+    document.getElementById('del-9').classList.add('line-del');
+    document.getElementById('del-8.1').classList.add('line-del');
+    document.getElementById('del-8.2').classList.add('line-del');
     document.getElementById('del-10').classList.add('line-del');
     document.getElementById('del-11').classList.add('line-del');
     document.getElemenyById('add-1').classList.remove('hidden');
