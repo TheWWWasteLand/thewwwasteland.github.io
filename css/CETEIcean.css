@@ -1026,6 +1026,7 @@ tei-graphic img {
 
 tei-add {
     color: red;
+    display: inline-block;
 }
 .hidden {
     display: none;
