@@ -38,7 +38,6 @@ function finalVer() {
     document.getElementById("rdg-1").style.display="inline";
   }
   else if (one.getAttribute('style') == "display: block;") {
-    document.getElemenyById('add-1').style.setProperty('style', 'inline-block', 'important');
     document.getElementById('rdg-2').classList.add('total-del');
     document.getElementById('note-1').style.display="block";
     document.getElementById('note-2').style.display="block";
@@ -53,6 +52,7 @@ function finalVer() {
     document.getElementById('del-10').classList.add('line-del');
     document.getElementById('add-2').classList.remove('hidden');
     document.getElementById('add-3').classList.remove('hidden');
+    document.getElemenyById('add-1').style.setProperty('style', 'inline-block', 'important');
   }
   else if (two.getAttribute('style') == "display: block;") {
     const arrow = document.createElement("img");
