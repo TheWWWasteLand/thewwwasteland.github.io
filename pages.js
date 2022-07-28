@@ -6,9 +6,6 @@ function nextPage() {
   if (i.getAttribute('style') != "display: none;") {
     i.style.display="none";
     one.style.display="block";
-    document.getElementById('add-1').style.display="hidden";
-    document.getElementById('add-2').classList.add('hidden');
-    document.getElementById('add-3').classList.add('hidden');
   }
   else if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
