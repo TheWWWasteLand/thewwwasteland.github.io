@@ -1002,10 +1002,11 @@ tei-note {
 }        
 
 #note-2 {
+    text-align:right;
     position:absolute;
     color: red;
     right: 7vw;
-    top: 26.4em;
+    top: 27.2em;
     line-height: 0.8em;
 }
     
