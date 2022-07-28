@@ -1033,3 +1033,12 @@ tei-add {
     display:none;
     color: red;
 }
+#back-1 {
+    position: absolute;
+    height: 11em;
+    width: 11em;
+    right: 5em;
+    top: 50em;
+}
+    
+    
