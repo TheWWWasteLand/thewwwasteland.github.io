@@ -1020,8 +1020,8 @@ tei-graphic img {
   border: 1px solid #333;
   cursor: none;
   /*Set the size of the magnifier glass:*/
-  width: 180px;
-  height: 180px;
+  width: 130px;
+  height: 130px;
 }    
 
 tei-add {
