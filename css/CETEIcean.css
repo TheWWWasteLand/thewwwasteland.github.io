@@ -987,11 +987,11 @@ tei-del {
 
 tei-note {
     display:none;
-    position:absolute;
-    color: red;
 }
 
 #note-1 tei-del {
+    position:absolute;
+    color: red;
     text-decoration: line-through;
     text-decoration-color: red;
     text-align:right;
@@ -1001,6 +1001,8 @@ tei-note {
 }        
 
 #note-2 {
+    position:absolute;
+    color: red;
     text-align:right;  
     right: 7vw;
     top: 28.2em;
@@ -1016,7 +1018,19 @@ tei-note {
     text-decoration: line-through;
     text-decoration-color: red;
 }
-
+#note-3 {
+    position:absolute;
+    color: red;
+    right: 8.5em;
+    top: 70em;
+}
+#note-4 {
+    position:absolute;
+    color: red;
+    line-height: 0.8em;
+    top: 78em;
+    right: 8.5em;
+}
 .line-del {
    text-decoration: line-through;
    text-decoration-color: red;
