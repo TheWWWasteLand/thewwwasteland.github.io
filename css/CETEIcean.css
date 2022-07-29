@@ -1043,8 +1043,8 @@ tei-add {
     display: none !important;
 }
 #add-1 {
-    top: 300px;
-    right: 60px
+    top: 60em;
+    right: 40em;
 }    
 #rdg-1 {
     display:none;
