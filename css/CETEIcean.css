@@ -1050,7 +1050,7 @@ tei-add {
     bottom: -1.5em;
 }
 #add-4 {
-    left: -2em;
+    margin-left: -2em;
 }
 #rdg-1 {
     display:none;
