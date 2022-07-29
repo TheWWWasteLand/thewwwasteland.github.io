@@ -1021,15 +1021,15 @@ tei-note {
 #note-3 {
     position:absolute;
     color: red;
-    right: 8.5em;
-    top: 70em;
+    right: 16em;
+    top: 75em;
 }
 #note-4 {
     position:absolute;
     color: red;
     line-height: 0.8em;
-    top: 78em;
-    right: 8.5em;
+    top: 79.5em;
+    right: 13em;
 }
 .line-del {
    text-decoration: line-through;
