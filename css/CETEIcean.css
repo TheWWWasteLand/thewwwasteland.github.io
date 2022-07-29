@@ -1039,7 +1039,9 @@ tei-add {
     display: block;
     position: absolute;
 }
-
+.hidden {
+    display: none !important;
+}
 #add-1 {
     top: 300px;
     right: 60px
