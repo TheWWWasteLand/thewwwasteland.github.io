@@ -52,6 +52,8 @@ function finalVer() {
     document.getElementById('rdg-2').classList.add('total-del');
     document.getElementById('note-1').style.display="block";
     document.getElementById('note-2').style.display="block";
+    document.getElementById('note-3').style.display="block";
+    document.getElementById('note-4').style.display="block";
     document.getElementById('del-4').classList.add('line-del');
     document.getElementById('del-5').classList.add('line-del');
     document.getElementById('del-6a').classList.add('line-del'); 
