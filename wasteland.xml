@@ -116,7 +116,7 @@
                     <l>You was well introduced, but this is the last of you.</l>
                     <l>Get me a woman, I said; you're too drunk, she said,</l>
                     <l>But she gave me a bed, and a bath, and ham and eggs,</l>
-                    <l>And now you go get a shave, she said; <rdg xml:id="rdg-6"><subst xml:id="sub-2"><del xml:id="del-6">I had a good laugh,</del><add xml:id="add-2">couple of laughs (?)</add></subst></rdg></l>
+                    <l>And now you go get a shave, she said; <rdg xml:id="rdg-6"><subst xml:id="sub-2"><del xml:id="del-6.1">I had a good laugh,</del><add xml:id="add-2.1"><del xml:id="del-6.1">couple of laughs (?)</del></add><add xml:id="add-2.2">real<lb/>good(?)</add></subst></rdg></l>
                     <l>Myrtle <rdg xml:id="rdg-7"><subst xml:id="sub-3"><del xml:id="del-7.1">was</del> always a <del xml:id="del-7.2">good sport").</del> <add xml:id="add-3">treated me white.</add></subst></rdg></l>
                     <l>We'd just gone up the alley, a fly cop came along,</l>
                     <l>Looking for trouble; committing a nuisance, he said,</l> 
@@ -151,7 +151,6 @@
                         <l>doin'</l>
                     </lg>
                 </note>
-                
             </div>
             <pb xml:id="wasteland-2" n="2"/>
             <div xml:id="page-3">
