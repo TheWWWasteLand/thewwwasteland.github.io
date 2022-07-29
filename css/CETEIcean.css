@@ -1047,7 +1047,10 @@ tei-add {
 }
 #add-2 {
     padding-left: 27em;
-    padding-bottom: 1.5em;
+    bottom: -1.5em;
+}
+#add-4 {
+    padding-left: -2em;
 }
 #rdg-1 {
     display:none;
