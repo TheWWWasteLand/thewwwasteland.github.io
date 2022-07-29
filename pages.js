@@ -7,6 +7,9 @@ function nextPage() {
     i.style.display="none";
     one.style.display="block";
     document.getElementById('add-1').classList.toggle('hidden');
+    document.getElementById('add-2').classList.toggle('hidden');
+    document.getElementById('add-3').classList.toggle('hidden');
+    document.getElementById('add-4').classList.toggle('hidden');
   }
   else if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
@@ -39,6 +42,9 @@ function finalVer() {
   }
   else if (one.getAttribute('style') == "display: block;") {
     document.getElementById('add-1').classList.toggle('hidden');
+    document.getElementById('add-2').classList.toggle('hidden');
+    document.getElementById('add-3').classList.toggle('hidden');
+    document.getElementById('add-4').classList.toggle('hidden');
     document.getElementById('rdg-2').classList.add('total-del');
     document.getElementById('note-1').style.display="block";
     document.getElementById('note-2').style.display="block";
