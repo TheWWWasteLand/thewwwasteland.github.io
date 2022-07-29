@@ -9,6 +9,7 @@ function nextPage() {
     document.getElementById('add-1').classList.toggle('hidden');
     document.getElementById('add-2a').classList.toggle('hidden');
     document.getElementById('add-2b').classList.toggle('hidden');
+    document.getElementById('add-2c').classList.toggle('hidden');
     document.getElementById('add-3').classList.toggle('hidden');
     document.getElementById('add-4').classList.toggle('hidden');
   }
@@ -45,6 +46,7 @@ function finalVer() {
     document.getElementById('add-1').classList.toggle('hidden');
     document.getElementById('add-2a').classList.toggle('hidden');
     document.getElementById('add-2b').classList.toggle('hidden');
+    document.getElementById('add-2c').classList.toggle('hidden');
     document.getElementById('add-3').classList.toggle('hidden');
     document.getElementById('add-4').classList.toggle('hidden');
     document.getElementById('rdg-2').classList.add('total-del');
@@ -54,6 +56,8 @@ function finalVer() {
     document.getElementById('del-5').classList.add('line-del');
     document.getElementById('del-6a').classList.add('line-del'); 
     document.getElementById('del-6b').classList.add('line-del');        
+    document.getElementById('del-6c').classList.add('line-del');        
+    document.getElementById('del-6d').classList.add('line-del');        
     document.getElementById('del-7a').classList.add('line-del');
     document.getElementById('del-7b').classList.add('line-del');
     document.getElementById('del-9').classList.add('line-del');
