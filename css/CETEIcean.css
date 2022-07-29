@@ -1051,7 +1051,11 @@ tei-add {
     top: 62.9em;
 }
 #add-2b {
-    padding-left: 26.5em;
+    padding-left: 27.8em;
+    line-height: 1em;
+}
+#add-2c {
+    padding-left: 31em;
 }
 #add-3 {
     padding-left: 15.2em;
