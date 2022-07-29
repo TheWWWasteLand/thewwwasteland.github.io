@@ -64,6 +64,7 @@ function finalVer() {
     document.getElementById('del-8a').classList.add('line-del');
     document.getElementById('del-8b').classList.add('line-del');
     document.getElementById('del-10').classList.add('line-del');
+    document.getElementById('del-11').classList.add('line-del');
   }
   else if (two.getAttribute('style') == "display: block;") {
     const arrow = document.createElement("img");
