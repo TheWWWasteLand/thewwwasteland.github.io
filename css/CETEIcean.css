@@ -1036,7 +1036,14 @@ tei-graphic img {
 
 tei-add {
     color: red;
+    display: block;
+    position: absolute;
 }
+
+#add-1 {
+    top: 300px;
+    right: 60px
+}    
 #rdg-1 {
     display:none;
     color: red;
