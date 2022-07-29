@@ -7,7 +7,7 @@ function nextPage() {
     i.style.display="none";
     one.style.display="block";
     document.getElementById('add-1').classList.toggle('hidden');
-    document.getElementById('add-2').classList.toggle('hidden');
+    document.getElementById('add-2.1').classList.toggle('hidden');
     document.getElementById('add-2.2').classList.toggle('hidden');
     document.getElementById('add-3').classList.toggle('hidden');
     document.getElementById('add-4').classList.toggle('hidden');
@@ -43,7 +43,8 @@ function finalVer() {
   }
   else if (one.getAttribute('style') == "display: block;") {
     document.getElementById('add-1').classList.toggle('hidden');
-    document.getElementById('add-2').classList.toggle('hidden');
+    document.getElementById('add-2.1').classList.toggle('hidden');
+    document.getElementById('add-2.2').classList.toggle('hidden');
     document.getElementById('add-3').classList.toggle('hidden');
     document.getElementById('add-4').classList.toggle('hidden');
     document.getElementById('rdg-2').classList.add('total-del');
