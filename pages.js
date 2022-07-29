@@ -6,6 +6,7 @@ function nextPage() {
   if (i.getAttribute('style') != "display: none;") {
     i.style.display="none";
     one.style.display="block";
+    document.getElementById('add-1').classList.toggle('hidden');
   }
   else if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
