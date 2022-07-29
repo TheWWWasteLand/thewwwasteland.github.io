@@ -8,6 +8,7 @@ function nextPage() {
     one.style.display="block";
     document.getElementById('add-1').classList.toggle('hidden');
     document.getElementById('add-2').classList.toggle('hidden');
+    document.getElementById('add-2.2').classList.toggle('hidden');
     document.getElementById('add-3').classList.toggle('hidden');
     document.getElementById('add-4').classList.toggle('hidden');
   }
@@ -50,7 +51,8 @@ function finalVer() {
     document.getElementById('note-2').style.display="block";
     document.getElementById('del-4').classList.add('line-del');
     document.getElementById('del-5').classList.add('line-del');
-    document.getElementById('del-6').classList.add('line-del');    
+    document.getElementById('del-6.1').classList.add('line-del'); 
+    document.getElementById('del-6.2').classList.add('line-del');        
     document.getElementById('del-7.1').classList.add('line-del');
     document.getElementById('del-7.2').classList.add('line-del');
     document.getElementById('del-9').classList.add('line-del');
