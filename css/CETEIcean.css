@@ -970,6 +970,7 @@ tei-text {
 li img {
     width: 50px;
     margin-right: 0px !important;
+    padding-top: 0.5em;
 }
 tei-body tei-div {
     display: none;
