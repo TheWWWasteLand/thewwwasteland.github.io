@@ -965,6 +965,7 @@ tei-text {
 .right p {
     border-radius: 3px;
     border: 1px solid #333;
+    padding: 0.7em;
 }
 li img {
     width: 50px;
