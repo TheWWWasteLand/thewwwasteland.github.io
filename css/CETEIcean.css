@@ -985,6 +985,7 @@ tei-body tei-div {
     display: inline-block;
     border-radius: 3px;
     border: solid 0.5px red;
+    padding-bottom: 0em !important;
 }
 tei-del {
     display: inline-block;
@@ -1113,4 +1114,5 @@ tei-add {
 }
 tei-lg {
     display: inline-block;
+    padding-bottom: 1.5em;
 }
