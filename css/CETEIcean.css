@@ -961,6 +961,8 @@ tei-text {
 .right {
     float:right;
     margin-left: 5px;
+}
+.right button {
     border-radius: 3px;
     border: 1px solid #333;
 }
