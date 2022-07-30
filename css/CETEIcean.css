@@ -939,6 +939,7 @@ tei-text {
   top: 0;
   width: 100%;
   background-color: rgba(255, 255, 255) !important;
+  z-index: 100;
 }
 .bar ul li {
   display: inline;
