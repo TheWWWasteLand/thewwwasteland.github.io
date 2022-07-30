@@ -167,13 +167,11 @@
                     <figure><graphic url="https://thewwwasteland.github.io/images/3.jpg" xml:id="page-2"/>
                     </figure>
                 </p>
-                <p>
                     <head>
-                        <line>2.<lb/></line>
+                        <line>2.</line>
                     </head>
-                </p>
-                <p>
-                    <line>  *  *  *  *  <lb/></line>
+                <lg>
+                    <line><lb/>  *  *  *  *  <lb/></line>
                     <l>April is the cruellest month, breeding</l>
                     <l>Liliacs out of the dead land, mixing</l>
                     <l>Memory and desire, stirring</l>
@@ -205,19 +203,21 @@
                     <l>Or your shadow at evening rising to meet you;</l>
                     <l>I will show you fear in a handful of dust.</l>
                     <line>  *  *  *  *  <lb/></line>
-                    <lg xml:id="lg-2">
-                        <l><app><rdg><del>Mein</del></rdg></app> Frisch schwebt der Wind </l>
-                        <l>     Der Heimat zu,</l>
-                        <l>     Mein Irisch' Kind,</l>
-                        <l>     Wo weilest du?</l>
-                        <l>"You fave me hyacinths first a year ago; </l>
-                        <l>"They called me the hyacinth girl".</l>
-                        <l>- Yet when we came back, late, from the hyacinth garden,</l>
-                        <l>Your arms full, and your hair wet, I could not</l>
-                        <l>Speak, and my eyes failed, I was neither</l>
-                        <l>Living nor dead, and I knew nothing,</l>
-                        <l>Looking into the heart of light, the silence.</l> 
-                    </lg>
+                </lg>
+                <lg xml:id="lg-2">
+                    <l><app><rdg><del>Mein</del></rdg></app> Frisch schwebt der Wind </l>
+                    <l>     Der Heimat zu,</l>
+                    <l>     Mein Irisch' Kind,</l>
+                    <l>     Wo weilest du?</l>
+                    <l>"You fave me hyacinths first a year ago; </l>
+                    <l>"They called me the hyacinth girl".</l>
+                    <l>- Yet when we came back, late, from the hyacinth garden,</l>
+                    <l>Your arms full, and your hair wet, I could not</l>
+                    <l>Speak, and my eyes failed, I was neither</l>
+                    <l>Living nor dead, and I knew nothing,</l>
+                    <l>Looking into the heart of light, the silence.</l> 
+                </lg>
+                <lg>
                     <lb/><l>Madame Sosostris, famous clairvoyant,</l>
                     <l>Had a bad cold, nvertheless Is known to be the wisest woman in Europe,</l>
                     <l>With a wicked pack of cards. Here, said she,</l>
@@ -225,51 +225,47 @@
                     <l>(Those are pearls that were hist eyes, Look!</l>
                     <l>Here is Belladonna, the Lady of the Rocks,</l>
                     <l>The lady of situations,</l>
-                </p>
+                </lg>
             </div>
             <div xml:id="page-4">
                 <p>
                     <figure><graphic url="https://thewwwasteland.github.io/images/4.jpg" xml:id="page-3"/>
                     </figure>
                 </p>
-                <p>
-                    <head>
-                        <line>3.<lb/></line>
-                    </head>
-                </p>
-                <p>
-                    <lg>
-                        <l>Here is the man with three staves, and here the Wheel,</l>
-                        <l>And here is the onw-eyes merchant, and this card,</l>
-                        <l>Which is blank, is something he carries on his back,</l>
-                        <l>Which I am forbidden to see. I look in vain</l>
-                        <l>For the Hanged Man. Fear death by water.</l>
-                        <l>I see crowds of people, walking round in a ring.</l>
-                        <l>(I John daw these things, and heard them).</l>
-                        <l>Thank you. If you see dear Mrs. Equitone,</l>
-                        <l>Tell her I bring the horoscope myself,</l>
-                        <l>One must be so careful these days.</l>
-                    </lg>
-                    <lg>
-                        <l>Terrible City, I have sometimes seen and see</l>
-                        <l>Under the brown fog of your winter dawn</l>
-                        <l>A crowd flow over London Bridge, so many,</l>
-                        <l>I had not thought death had undone so many.</l>
-                        <l>Sighs, short and infrequent, were expired,</l>
-                        <l>And each one kept his eyes before his feet.</l>
-                        <l>Flowed up the hill and down King William Street,</l>
-                        <l>To where Saint Mary Woolnoth kept the time,</l>
-                        <l>With a dead sound on the final stroke of nine.</l>
-                        <l>There I saw one I knew, and stopped him, crying: "Stetson! </l>
-                        <l>"You who were with me in the ships at Mylae!</l>
-                        <l>"That corpse you planted last year in your garden,</l>
-                        <l>"Has it begun to sprout? Will it bloom this year?"</l>
-                        <l>"Or has the sudden frost disturbed its bed?"</l>
-                        <l>"Oh keep the Dog far hence, that's foe to men,</l>
-                        <l>"Or with his nails he'll dig it up again!</l>
-                        <l>"You! hypocrite lecteur, -mon semblable,-mon frère!"</l>
-                    </lg>
-                </p>
+                <head>
+                    <line>3.<lb/></line>
+                </head>
+                <lg>
+                    <l>Here is the man with three staves, and here the Wheel,</l>
+                    <l>And here is the onw-eyes merchant, and this card,</l>
+                    <l>Which is blank, is something he carries on his back,</l>
+                    <l>Which I am forbidden to see. I look in vain</l>
+                    <l>For the Hanged Man. Fear death by water.</l>
+                    <l>I see crowds of people, walking round in a ring.</l>
+                    <l>(I John daw these things, and heard them).</l>
+                    <l>Thank you. If you see dear Mrs. Equitone,</l>
+                    <l>Tell her I bring the horoscope myself,</l>
+                    <l>One must be so careful these days.</l>
+                </lg>
+                <lg>
+                    <l>Terrible City, I have sometimes seen and see</l>
+                    <l>Under the brown fog of your winter dawn</l>
+                    <l>A crowd flow over London Bridge, so many,</l>
+                    <l>I had not thought death had undone so many.</l>
+                    <l>Sighs, short and infrequent, were expired,</l>
+                    <l>And each one kept his eyes before his feet.</l>
+                    <l>Flowed up the hill and down King William Street,</l>
+                    <l>To where Saint Mary Woolnoth kept the time,</l>
+                    <l>With a dead sound on the final stroke of nine.</l>
+                    <l>There I saw one I knew, and stopped him, crying: "Stetson! </l>
+                    <l>"You who were with me in the ships at Mylae!</l>
+                    <l>"That corpse you planted last year in your garden,</l>
+                    <l>"Has it begun to sprout? Will it bloom this year?"</l>
+                    <l>"Or has the sudden frost disturbed its bed?"</l>
+                    <l>"Oh keep the Dog far hence, that's foe to men,</l>
+                    <l>"Or with his nails he'll dig it up again!</l>
+                    <l>"You! hypocrite lecteur, -mon semblable,-mon frère!"</l>
+                </lg>
             </div>
         </body>
     </text>
