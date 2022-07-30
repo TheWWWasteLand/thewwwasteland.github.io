@@ -805,7 +805,6 @@ tei-surplus>*:last-child:after {
 /* t */
 tei-tei {
   display: block;
-  background-color: rgba(255, 255, 255, 0.5);
 }
 tei-table {
   display: block;
@@ -925,14 +924,12 @@ tei-text {
     padding-top: 60px;
 }
 .bar {
-    background-color: rgba(255, 255, 255, 0.5);
     display:block;
 }
 .bar ul {
   list-style-type: none;
   display: block;
   margin-right: 1em;
-  background-color: rgba(255, 255, 255, 0.5);
 }
 .sticky {
   position: fixed;
