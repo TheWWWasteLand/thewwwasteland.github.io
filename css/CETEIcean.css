@@ -915,7 +915,7 @@ body {
   background-image: url('https://thewwwasteland.github.io/images/bg.jpg');
   background-color: #fff;
   border-radius: 3px;
-  overflow: auto;
+  height: 1300px;
 }
 tei-p{
   display: block;
