@@ -962,7 +962,7 @@ tei-text {
     float:right;
     margin-left: 5px;
 }
-.right button {
+.right p {
     border-radius: 3px;
     border: 1px solid #333;
 }
@@ -1111,8 +1111,5 @@ tei-add {
     width: 11em;
     right: 12em;
     top: 38em;
-}
-p {
-    display: block;
 }
     
