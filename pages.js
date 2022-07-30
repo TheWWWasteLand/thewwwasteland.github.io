@@ -26,10 +26,11 @@ function nextPage() {
 };
 
 function prevPage() {
-  var i, one, two;
+  var i, one, two, three;
   i = document.getElementById('page-i');
   one = document.getElementById('page-2');
-  two = document.getElementById('page-3')
+  two = document.getElementById('page-3');
+  three = document.getElementById('page-4')
   if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
     i.style.display="block";
@@ -37,6 +38,10 @@ function prevPage() {
   else if (two.getAttribute('style') == "display: block;") {
     two.style.display="none";
     one.style.display="block";
+  }
+  else if (three.getAttribute('style') == "display: block;") {
+    three.style.display="none";
+    two.style.display="block";
   }
 };
 
