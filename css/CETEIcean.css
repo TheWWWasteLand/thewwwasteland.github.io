@@ -1110,5 +1110,7 @@ tei-add {
     right: 12em;
     top: 38em;
 }
-    
+p {
+    display: block;
+}
     
