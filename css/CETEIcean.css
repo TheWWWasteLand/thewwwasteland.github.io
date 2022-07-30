@@ -940,7 +940,7 @@ tei-text {
   width: 100%;
   background-color: rgba(255, 255, 255) !important;
   z-index: 100;
-  margin-left: -4em !important;
+  margin-left: -4.5em !important;
   margin-top: -1em !important;
   padding-top: 1em;
   padding-right: 1em;
@@ -949,6 +949,7 @@ tei-text {
 }
 .bar ul li {
   display: inline;
+  padding-top: 8px;
   padding-left: 8px;
   padding-right: 8px;        
   padding-bottom: 5px;
