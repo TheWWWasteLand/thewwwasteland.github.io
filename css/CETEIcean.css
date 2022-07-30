@@ -900,6 +900,7 @@ html {
   font-family: "Lucida Grande", "Cardo", "Arial Unicode MS","Galilee Unicode Gk", "New Athena Unicode", "Athena Unicode", "Palatino Linotype", "Titus Cyberbit Basic", "Vusillus Old Face", "Alphabetum", "Galatia SIL", "Code 2000", "GentiumAlt", "Gentium", "Minion Pro", "GeorgiaGreek", "Vusillus Old Face Italic", "Everson Mono", "Aristarcoj", "Porson", "Legendum", "Aisa Unicode", "Hindsight Unicode", "Caslon", "Verdana", "Tahoma";
   font-size: 12pt;
   color: #292929;
+  background-image: url('https://thewwwasteland.github.io/images/bg.jpg');
 }
 
 img {
@@ -912,8 +913,7 @@ tei-line {
 body {
   border: 1px solid #333;
   padding:1em;
-  background-image: url('https://thewwwasteland.github.io/images/bg.jpg');
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.5);
   border-radius: 3px;
   height: 1300px;
 }
