@@ -934,6 +934,12 @@ tei-text {
   margin-right: 1em;
   background-color: rgba(255, 255, 255, 0.5);
 }
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: rgba(255, 255, 255) !important;
+}
 .bar ul li {
   display: inline;
   padding-left: 8px;
