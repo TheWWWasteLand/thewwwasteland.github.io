@@ -934,9 +934,10 @@ tei-text {
   z-index: 100;
   margin-left: -4.5em !important;
   margin-top: -1em !important;
+  padding-left: 40vw;
   padding-top: 1em;
   padding-right: 1em;
-  padding-bottom: 0.5em;
+  padding-bottom: 0.2em;
   box-shadow: 0px 5px 8px #888888;
 }
 div ul {
@@ -957,11 +958,14 @@ div ul li {
     margin-left: -4.5em !important;
     position: fixed;
     bottom: 0;
-    display: flex;
-    align-items: center;
+    display: block;
     width: 100%;
     background-color: rgba(255, 255, 255) !important;
     z-index: 100;
+}
+
+.right {
+    float: right;
 }
 
 .right p {
@@ -972,7 +976,7 @@ div ul li {
 li img {
     width: 50px;
     margin-right: 0px !important;
-    padding-top: 0.7em;
+    padding-top: 0.4em;
 }
 tei-body tei-div {
     display: none;
