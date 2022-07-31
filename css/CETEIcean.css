@@ -924,6 +924,7 @@ tei-text {
     padding-top: 60px;
 }
 .bar {
+  align-items:center;
   display:block;
   position: fixed;
   top: 0;
@@ -950,10 +951,7 @@ tei-text {
   padding-right: 8px;        
   padding-bottom: 5px;
 }
-.left {
-    float:left;
-    margin-right: 5px;
-}
+
 .right {
     float:right;
     margin-left: 5px;
