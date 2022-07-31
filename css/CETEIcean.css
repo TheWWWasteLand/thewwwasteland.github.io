@@ -911,7 +911,6 @@ tei-line {
 }
 body {
   border: 1px solid #333;
-  padding:1em;
   background-color: rgba(255, 255, 255, 0.5);
   border-radius: 3px;
   height: 1300px;
@@ -921,17 +920,11 @@ tei-p{
   padding-left: 3em
 }
 tei-text {
+    padding:1em;
     padding-top: 60px;
 }
 .bar {
-    display:block;
-}
-.bar ul {
-  list-style-type: none;
-  display: block;
-  margin-right: 1em;
-}
-.sticky {
+  display:block;
   position: fixed;
   top: 0;
   width: 100%;
@@ -944,6 +937,12 @@ tei-text {
   padding-bottom: 0.5em;
   box-shadow: 0px 5px 8px #888888;
 }
+.bar ul {
+  list-style-type: none;
+  display: block;
+  margin-right: 1em;
+}
+
 .bar ul li {
   display: inline;
   padding-top: 8px;
