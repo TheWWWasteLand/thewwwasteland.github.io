@@ -34,6 +34,7 @@ function prevPage() {
   if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
     i.style.display="block";
+    document.getElementById('prev').style.display="none";
   }
   else if (two.getAttribute('style') == "display: block;") {
     two.style.display="none";
