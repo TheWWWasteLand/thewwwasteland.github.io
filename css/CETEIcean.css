@@ -955,6 +955,8 @@ div ul li {
   padding-bottom: 5px;
 }
 .low-bar {
+    padding-top: 0.em;
+    padding-right: 35vw;
     margin-left: -4.5em !important;
     position: fixed;
     bottom: 0;
@@ -971,7 +973,7 @@ div ul li {
 .right p {
     border-radius: 3px;
     border: 1px solid #333;
-    padding: 0.7em;
+    padding: 0.4em;
 }
 li img {
     width: 50px;
