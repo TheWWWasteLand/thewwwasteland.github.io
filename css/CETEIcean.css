@@ -911,8 +911,8 @@ tei-line {
 }
 body {
   border: 1px solid #333;
-  background: rgb(209,209,209);
-  background: linear-gradient(90deg, rgba(209,209,209,1) 0%, rgba(255,255,255,1) 50%, rgba(221,221,221,1) 100%);
+  background: rgb(247,247,247);
+  background: linear-gradient(90deg, rgba(247,247,247,1) 0%, rgba(255,255,255,1) 50%, rgba(247,247,247,1) 100%);
   border-radius: 3px;
   height: 1300px;
 }
