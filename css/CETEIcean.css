@@ -961,7 +961,7 @@ div ul li {
     background-color: rgba(255, 255, 255) !important;
 }
 .right {
-    float:right;
+    float:center;
     margin-left: 5px;
 }
 .right p {
