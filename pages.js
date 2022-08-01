@@ -55,6 +55,7 @@ function finalVer() {
     document.getElementById("rdg-1").style.display="inline";
   }
   else if (one.getAttribute('style') == "display: block;") {
+    document.getElementById('lg-1').classList.add('highlight');
     document.getElementById('add-1').classList.toggle('hidden');
     document.getElementById('add-2a').classList.toggle('hidden');
     document.getElementById('add-2b').classList.toggle('hidden');
