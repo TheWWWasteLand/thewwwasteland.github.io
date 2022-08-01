@@ -1188,3 +1188,17 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+#selectAuthors {
+    display:block;
+    position:fixed;
+    left: 0;
+    bottom:4em;
+    z-index:101;
+    backround-color: white;
+    height: 10em;
+    width: 10vw;
+}
+#selectAutList {
+    list-style-type: none;
+}
+
