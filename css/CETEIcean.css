@@ -1214,5 +1214,8 @@ input:checked + .slider:before {
     padding-bottom:0.5em;
     display: block !important;
 }
-
+.bolder {
+  cursor: pointer;
+  font-weight: 600;
+}
 
