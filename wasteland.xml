@@ -170,61 +170,64 @@
                     <head>
                         <line>2.</line>
                     </head>
-                <lg>
-                    <line><lb/>  *  *  *  *  <lb/></line>
-                    <l>April is the cruellest month, breeding</l>
-                    <l>Liliacs out of the dead land, mixing</l>
-                    <l>Memory and desire, stirring</l>
-                    <l>Dull roots with spring rain.</l>
-                    <l>Winter kept us warm, covering</l>
-                    <l>Earth in forgetful snow, feeding</l>
-                    <l>A little life with dried tubers.</l>
-                    <l>Summer surprised us, coming over Königssee</l>
-                    <l>With a shower of rain; we stopped in the colonnade,</l>
-                    <l> And went on in sunlight, into the Hofgarten,</l>
-                    <l>And drank coffee, talking an hour.</l>
-                    <l>Bin gar kein Russin, stamm' aus Litauen, echt deutsch.</l>
-                    <l>And when we were children, staying at the arcduke's,</l>
-                    <l>My cousin's, he took me out on a sled,</l>
-                    <l>And I was frightened. He said, Marie,</l>
-                    <l>Marie, hold on tight. And down we went.</l>
-                    <l>In the mountains, there you feel free.</l>
-                    <l>I read, much of the night, and go south in the winter.</l>
-                    <line>  *  *  *  *  <lb/></line>
-                    <l>What are the roots that clutch, what branches grew</l>
-                    <l>Out of this stony rubbish! Son of man,</l>
-                    <l>You cannot say, or guess for you know only</l>
-                    <l>A heap of broken images, where the sun beats,</l>
-                    <l>And the dry stone no sound of water. Only</l>
-                    <l>There is shadow under this red rock,</l>
-                    <l>(Come in under the shadow of this red rock),</l>
-                    <l><app><rdg><del>And</del></rdg></app> I will show you something different from either</l>
-                    <l>Your shadow at morning striding behind you</l>
-                    <l>Or your shadow at evening rising to meet you;</l>
-                    <l>I will show you fear in a handful of dust.</l>
-                    <line>  *  *  *  *  <lb/></line>
-                </lg>
-                <lg xml:id="lg-2">
-                    <l><app><rdg><del>Mein</del></rdg></app> Frisch schwebt der Wind </l>
-                    <l>     Der Heimat zu,</l>
-                    <l>     Mein Irisch' Kind,</l>
-                    <l>     Wo weilest du?</l>
-                    <l>"You fave me hyacinths first a year ago; </l>
-                    <l>"They called me the hyacinth girl".</l>
-                    <l>- Yet when we came back, late, from the hyacinth garden,</l>
-                    <l>Your arms full, and your hair wet, I could not</l>
-                    <l>Speak, and my eyes failed, I was neither</l>
-                    <l>Living nor dead, and I knew nothing,</l>
-                    <l>Looking into the heart of light, the silence.</l> 
-                </lg>
-                <lg>
-                    <lb/><l>Madame Sosostris, famous clairvoyant,</l>
-                    <l>Had a bad cold, nvertheless Is known to be the wisest woman in Europe,</l>
-                    <l>With a wicked pack of cards. Here, said she,</l>
-                    <l>Is your card, the drowned Phoenician Sailor,</l>
-                    <l>(Those are pearls that were hist eyes, Look!</l>
-                    <l>Here is Belladonna, the Lady of the Rocks,</l>
-                    <l>The lady of situations,</l>
+                <lg xml:id="page-3-text">
+                    <lg>
+                        <line><lb/>  *  *  *  *  <lb/></line>
+                        <l>April is the cruellest month, breeding</l>
+                        <l>Liliacs out of the dead land, mixing</l>
+                        <l>Memory and desire, stirring</l>
+                        <l>Dull roots with spring rain.</l>
+                        <l>Winter kept us warm, covering</l>
+                        <l>Earth in forgetful snow, feeding</l>
+                        <l>A little life with dried tubers.</l>
+                        <l>Summer surprised us, coming over Königssee</l>
+                        <l>With a shower of rain; we stopped in the colonnade,</l>
+                        <l> And went on in sunlight, into the Hofgarten,</l>
+                        <l>And drank coffee, talking an hour.</l>
+                        <l>Bin gar kein Russin, stamm' aus Litauen, echt deutsch.</l>
+                        <l>And when we were children, staying at the arcduke's,</l>
+                        <l>My cousin's, he took me out on a sled,</l>
+                        <l>And I was frightened. He said, Marie,</l>
+                        <l>Marie, hold on tight. And down we went.</l>
+                        <l>In the mountains, there you feel free.</l>
+                        <l>I read, much of the night, and go south in the winter.</l>
+                        <line>  *  *  *  *  <lb/></line>
+                        <l>What are the roots that clutch, what branches grew</l>
+                        <l>Out of this stony rubbish! Son of man,</l>
+                        <l>You cannot say, or guess for you know only</l>
+                        <l>A heap of broken images, where the sun beats,</l>
+                        <l>And the dry stone no sound of water. Only</l>
+                        <l>There is shadow under this red rock,</l>
+                        <l>(Come in under the shadow of this red rock),</l>
+                        <l><app><rdg><del>And</del></rdg></app> I will show you something different from either</l>
+                        <l>Your shadow at morning striding behind you</l>
+                        <l>Or your shadow at evening rising to meet you;</l>
+                        <l>I will show you fear in a handful of dust.</l>
+                        <line>  *  *  *  *  <lb/></line>
+                    </lg>
+                    <lg xml:id="lg-2">
+                        <l><app><rdg><del>Mein</del></rdg></app> Frisch schwebt der Wind </l>
+                        <l>     Der Heimat zu,</l>
+                        <l>     Mein Irisch' Kind,</l>
+                        <l>     Wo weilest du?</l>
+                        <l>"You fave me hyacinths first a year ago; </l>
+                        <l>"They called me the hyacinth girl".</l>
+                        <l>- Yet when we came back, late, from the hyacinth garden,</l>
+                        <l>Your arms full, and your hair wet, I could not</l>
+                        <l>Speak, and my eyes failed, I was neither</l>
+                        <l>Living nor dead, and I knew nothing,</l>
+                        <l>Looking into the heart of light, the silence.</l> 
+                    </lg>
+                    <lg>
+                        <lb/><l>Madame Sosostris, famous clairvoyant,</l>
+                        <l>Had a bad cold, nevertheless<l>
+                        <l>Is known to be the wisest woman in Europe,</l>
+                        <l>With a wicked pack of cards. Here, said she,</l>
+                        <l>Is your card, the drowned Phoenician Sailor,</l>
+                        <l>(Those are pearls that were hist eyes, Look!</l>
+                        <l>Here is Belladonna, the Lady of the Rocks,</l>
+                        <l>The lady of situations,</l>
+                    </lg>
                 </lg>
             </div>
             <div xml:id="page-4">
