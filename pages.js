@@ -50,7 +50,8 @@ function finalVer() {
   var i, one, two;
   i = document.getElementById('page-i');
   one = document.getElementById('page-2');
-  two = document.getElementById('page-3')
+  two = document.getElementById('page-3');
+  document.getElementById('selectAuthors').classList.remove('hidden');
   if (i.getAttribute('style') != "display: none;") {
     document.getElementById("rdg-1").style.display="inline";
   }
