@@ -1193,7 +1193,6 @@ input:checked + .slider:before {
     bottom:4em;
     z-index:101;
     background-color: white;
-    height: 10em;
     width: 300px;
     border: solid 0.5px #000;
     border-bottom: none;
