@@ -904,7 +904,7 @@ img {
     width: 600px;
     margin-right: 3em
 }
-tei-line {
+tei-line, tei-l {
     white-space: pre;
 }
 body {
