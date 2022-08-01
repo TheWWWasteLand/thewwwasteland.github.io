@@ -1196,7 +1196,7 @@ input:checked + .slider:before {
     z-index:101;
     background-color: white;
     height: 10em;
-    width: 25vw;
+    width: 300px;
     border: solid 0.5px #000;
     border-bottom: none;
 }
@@ -1207,7 +1207,7 @@ input:checked + .slider:before {
     border-bottom: solid 0.5px #333;
 }
 #selectAutList {
-    list-style-type: none;
+    list-style-type: none !important;
 }
 #selectAutList li {
     padding-left: 0em !important;
