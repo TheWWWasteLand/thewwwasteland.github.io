@@ -8,12 +8,12 @@ function nextPage() {
     i.style.display="none";
     one.style.display="block";
     document.getElementById('prev').style.display="block";
-    document.getElementById('add-1').classList.add('hidden');
-    document.getElementById('add-2a').classList.add('hidden');
-    document.getElementById('add-2b').classList.add('hidden');
-    document.getElementById('add-2c').classList.add('hidden');
-    document.getElementById('add-3').classList.add('hidden');
-    document.getElementById('add-4').classList.add('hidden');
+    document.getElementById('add-1').classList.toggle('hidden');
+    document.getElementById('add-2a').classList.toggle('hidden');
+    document.getElementById('add-2b').classList.toggle('hidden');
+    document.getElementById('add-2c').classList.toggle('hidden');
+    document.getElementById('add-3').classList.toggle('hidden');
+    document.getElementById('add-4').classList.toggle('hidden');
   }
   else if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
