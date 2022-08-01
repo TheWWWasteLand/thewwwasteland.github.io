@@ -906,6 +906,7 @@ img {
 }
 tei-line, tei-l {
     white-space: pre;
+    width: 35em;
 }
 body {
   border: 1px solid #333;
@@ -968,8 +969,8 @@ tei-text {
 }
 
 .right {
-    padding-top: 2px !important;
-    padding-bottom: 2px !important;
+    padding-top: -2px !important;
+    padding-bottom: -2px !important;
     float: right;
     border-radius: 3px;
     border: solid 0.5px #333;
@@ -1191,7 +1192,7 @@ input:checked + .slider:before {
     display:block;
     position:fixed;
     left: 0;
-    bottom:4em;
+    bottom:4.5em;
     z-index:101;
     background-color: white;
     width: 300px;
