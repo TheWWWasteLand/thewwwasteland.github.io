@@ -90,6 +90,10 @@ function finalVer() {
   }
 };
 
+function closeList() {
+  document.getElementById('selectAuthors').classList.add('hidden');
+};
+
 function magnify(imgID, zoom) {
   var img, glass, w, h, bw;
   img = document.getElementById(imgID);
