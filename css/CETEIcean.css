@@ -947,18 +947,18 @@ div ul {
   list-style-type: none;
   display: block;
   margin-right: 1em;
+  padding-bottom: 5px;
 }
 
 div ul li {
   display: inline;
   padding-left: 8px;
   padding-right: 8px;        
-  padding-bottom: 5px;
 }
 .low-bar {
     border-top: solid 0.5px #000;
     padding-right: 35vw;
-    height: 3em;
+    height: 4em;
     margin-left: -4.5em !important;
     position: fixed;
     bottom: 0;
