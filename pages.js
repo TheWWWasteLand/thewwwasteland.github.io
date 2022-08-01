@@ -1,9 +1,11 @@
 function nextPage() {
-  var i, one, two, three;
+  var i, one, two, three, four, five;
   i = document.getElementById('page-i');
   one = document.getElementById('page-2');
   two = document.getElementById('page-3');
-  three = document.getElementById('page-4')
+  three = document.getElementById('page-4');
+  four = document.getElementById('page-5');
+  five = document.getElementById('page-6')
   if (i.getAttribute('style') != "display: none;") {
     i.style.display="none";
     one.style.display="block";
@@ -23,14 +25,24 @@ function nextPage() {
     two.style.display="none";
     three.style.display="block";
   }
+  else if (three.getAttribute('style') == "display: block;") {
+    three.style.display="none";
+    four.style.display="block";
+  }
+  else if (four.getAttribute('style') == "display: block;") {
+    four.style.display="none";
+    five.style.display="block";
+  }
 };
 
 function prevPage() {
-  var i, one, two, three;
+  var i, one, two, three, four, five;;
   i = document.getElementById('page-i');
   one = document.getElementById('page-2');
   two = document.getElementById('page-3');
-  three = document.getElementById('page-4')
+  three = document.getElementById('page-4');
+  four = document.getElementById('page-5');
+  five = document.getElementById('page-6')
   if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
     i.style.display="block";
@@ -43,6 +55,14 @@ function prevPage() {
   else if (three.getAttribute('style') == "display: block;") {
     three.style.display="none";
     two.style.display="block";
+  }
+  else if (four.getAttribute('style') == "display: block;") {
+    four.style.display="none";
+    three.style.display="block";
+  }
+  else if (five.getAttribute('style') == "display: block;") {
+    five.style.display="none";
+    four.style.display="block";
   }
 };
 
