@@ -992,11 +992,12 @@ tei-body tei-div {
 }
 #lg-1, #lg-2 {
     display: inline-block;
+    border-radius: 3px;
+    border: solid 0.5px rgba(255, 255, 255, 0);
+    padding-bottom: 0em !important;
 }
 .highlight {
-    border-radius: 3px;
-    border: solid 0.5px red;
-    padding-bottom: 0em !important;
+    border: solid 0.5px red !important;
 }
 tei-del {
     display: inline-block;
