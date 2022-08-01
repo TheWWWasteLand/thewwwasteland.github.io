@@ -1132,8 +1132,8 @@ tei-lg {
 .switch {
   position: relative;
   display: inline-block;
-  width: 60px;
-  height: 34px;
+  width: 50px;
+  height: 25px;
 }
 
 .switch input { 
@@ -1157,8 +1157,8 @@ tei-lg {
 .slider:before {
   position: absolute;
   content: "";
-  height: 26px;
-  width: 26px;
+  height: 18px;
+  width: 18px;
   left: 4px;
   bottom: 4px;
   background-color: white;
@@ -1175,9 +1175,9 @@ input:focus + .slider {
 }
 
 input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(26px);
+  -webkit-transform: translateX(24px);
+  -ms-transform: translateX(24px);
+  transform: translateX(24px);
 }
 
 /* Rounded sliders */
@@ -1194,11 +1194,12 @@ input:checked + .slider:before {
     left: 0;
     bottom:4em;
     z-index:101;
-    backround-color: white;
+    background-color: white;
     height: 10em;
-    width: 10vw;
+    width: 30vw;
 }
 #selectAutList {
     list-style-type: none;
+    font-size: 0.8em;
 }
 
