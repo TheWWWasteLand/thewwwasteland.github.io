@@ -81,7 +81,7 @@
                         <line>THE BURIAL OF THE DEAD<lb/></line>
                     </head>
                 </p>
-                <p><app><del xml:id="rdg-2">
+                <lg><app><del xml:id="rdg-2">
                     <l>First we had a couple of feelers down at Tom's place</l>
                     <l>There was old Tom, boiled to eyes, blind,</l>
                     <l>(Don't you remember that time after a dance,</l>
@@ -138,7 +138,7 @@
                     <l>Were running a hundred yards on a bet,</l>
                     <l>And Mr. Donovan holding the watch.</l>
                     <l>So I got out to see the sunrise, and walked home.</l> 
-                </del></app></p>
+                </del></app></lg>
                 <note id="note-1"><del><lg>
                         <l>Meet me in the shadow of the</l>
                         <l>watermelon Vine</l>
