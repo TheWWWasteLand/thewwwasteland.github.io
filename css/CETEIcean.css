@@ -1199,18 +1199,20 @@ input:checked + .slider:before {
     width: 20vw;
     border: solid 0.5px #000;
     border-bottom: none;
+    font-size: 0.8em !important;
 }
 #selectAuthors p {
     padding-left: 2em;
+    padding-top: 0.3em !important;
+    padding-bottom: 0.3em !important;
     white-space: pre;
     border-bottom: solid 0.5px #333;
 }
 #selectAutList {
     list-style-type: none;
-    font-size: 0.8em;
 }
 #selectAutList li {
-    padding-left: 2em !important;
+    padding-left: 0em !important;
     display: block !important;
 }
 
