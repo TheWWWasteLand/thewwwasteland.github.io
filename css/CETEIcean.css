@@ -1211,7 +1211,7 @@ input:checked + .slider:before {
 }
 #selectAutList li {
     padding-left: 0em !important;
-    padding-bottom:0.3em;
+    padding-bottom:0.5em;
     display: block !important;
 }
 
