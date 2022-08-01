@@ -957,7 +957,7 @@ tei-text {
 .low-bar {
     border-top: solid 0.5px #000;
     padding-right: 35vw;
-    height: 4em;
+    height: 4.5em;
     margin-left: -4.5em !important;
     position: fixed;
     bottom: 0;
@@ -968,6 +968,8 @@ tei-text {
 }
 
 .right {
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
     float: right;
     border-radius: 3px;
     border: solid 0.5px #333;
@@ -1151,7 +1153,6 @@ tei-lg {
   -webkit-transition: .4s;
   transition: .4s;
 }
-
 .slider:before {
   position: absolute;
   content: "";
