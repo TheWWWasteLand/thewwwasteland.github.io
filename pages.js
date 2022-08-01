@@ -91,7 +91,27 @@ function finalVer() {
 };
 
 function closeList() {
-  document.getElementById('selectAuthors').classList.add('hidden');
+  document.getElementById('selectAutList').classList.toggle('hidden');
+};
+
+function lens() {
+  var i, one, two, three;
+  i = document.getElementById('page-i');
+  one = document.getElementById('page-2');
+  two = document.getElementById('page-3');
+  three = document.getElementById('page-4')
+  if (i.getAttribute('style') != "display: none;") {
+    function magnify('page-i-pic', 3);
+  }
+  else if (one.getAttribute('style') == "display: block;") {
+    function magnify('page-1-pic', 3);
+  }
+  else if (two.getAttribute('style') == "display: block;") {
+    function magnify('page-2-pic', 3);
+  }
+  else if (three.getAttribute('style') == "display: block;") {
+    function magnify('page-3-pic', 3);
+  }
 };
 
 function magnify(imgID, zoom) {
