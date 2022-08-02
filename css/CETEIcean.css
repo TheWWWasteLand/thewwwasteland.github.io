@@ -1274,7 +1274,7 @@ input:checked + .slider:before {
   padding: 0;
 }
 #add-5 {
-    color: #118ab2;
+    color: #ef476f;
     top: 60em;
-    left: 4em;
+    padding-left: 4em;
 }
