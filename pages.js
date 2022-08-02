@@ -1,11 +1,23 @@
 function nextPage() {
-  var i, one, two, three, four, five;
+  var i, one, two, three, four, five, autList, pageList, secList;
   i = document.getElementById('page-i');
   one = document.getElementById('page-2');
   two = document.getElementById('page-3');
   three = document.getElementById('page-4');
   four = document.getElementById('page-5');
-  five = document.getElementById('page-6')
+  five = document.getElementById('page-6');
+  autList = document.getElementById('selectAuthors');
+  pageList = document.getElementById('pageList');
+  secList = document.getElementById('secList')
+  if (autList.getAttribute("class") != "hidden") {
+    autList.classList.toggle('hidden');
+  }
+  if (pageList.getAttribute("class") != "hidden") {
+    pageList.classList.toggle('hidden');
+  }
+  if (secList.getAttribute("class") != "hidden") {
+    secList.classList.toggle('hidden');
+  }
   if (i.getAttribute('style') != "display: none;") {
     i.style.display="none";
     one.style.display="block";
