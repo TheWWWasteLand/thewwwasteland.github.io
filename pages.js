@@ -76,31 +76,31 @@ function finalVer() {
     document.getElementById("rdg-1").style.display="inline";
   }
   else if (one.getAttribute('style') == "display: block;") {
-    document.getElementById('lg-1').classList.add('highlight');
+    document.getElementById('lg-1').classList.toggle('highlight');
     document.getElementById('add-1').classList.toggle('hidden');
     document.getElementById('add-2a').classList.toggle('hidden');
     document.getElementById('add-2b').classList.toggle('hidden');
     document.getElementById('add-2c').classList.toggle('hidden');
     document.getElementById('add-3').classList.toggle('hidden');
     document.getElementById('add-4').classList.toggle('hidden');
-    document.getElementById('rdg-2').classList.add('total-del');
+    document.getElementById('rdg-2').classList.toggle('total-del');
+    document.getElementById('del-4').classList.toggle('line-del');
+    document.getElementById('del-5').classList.toggle('line-del');
+    document.getElementById('del-6a').classList.toggle('line-del'); 
+    document.getElementById('del-6b').classList.toggle('line-del');        
+    document.getElementById('del-6c').classList.toggle('line-del');        
+    document.getElementById('del-6d').classList.toggle('line-del');        
+    document.getElementById('del-7a').classList.toggle('line-del');
+    document.getElementById('del-7b').classList.toggle('line-del');
+    document.getElementById('del-9').classList.toggle('line-del');
+    document.getElementById('del-8a').classList.toggle('line-del');
+    document.getElementById('del-8b').classList.toggle('line-del');
+    document.getElementById('del-10').classList.toggle('line-del');
+    document.getElementById('del-11').classList.toggle('line-del');
     document.getElementById('note-1').style.display="block";
     document.getElementById('note-2').style.display="block";
     document.getElementById('note-3').style.display="block";
     document.getElementById('note-4').style.display="block";
-    document.getElementById('del-4').classList.add('line-del');
-    document.getElementById('del-5').classList.add('line-del');
-    document.getElementById('del-6a').classList.add('line-del'); 
-    document.getElementById('del-6b').classList.add('line-del');        
-    document.getElementById('del-6c').classList.add('line-del');        
-    document.getElementById('del-6d').classList.add('line-del');        
-    document.getElementById('del-7a').classList.add('line-del');
-    document.getElementById('del-7b').classList.add('line-del');
-    document.getElementById('del-9').classList.add('line-del');
-    document.getElementById('del-8a').classList.add('line-del');
-    document.getElementById('del-8b').classList.add('line-del');
-    document.getElementById('del-10').classList.add('line-del');
-    document.getElementById('del-11').classList.add('line-del');
   }
   else if (two.getAttribute('style') == "display: block;") {
     const arrow = document.createElement("img");
