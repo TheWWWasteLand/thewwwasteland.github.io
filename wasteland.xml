@@ -177,7 +177,7 @@
                     <l>Memory and desire, stirring</l>
                     <l>Dull roots with spring rain.</l>
                     <l>Winter kept us warm, covering</l>
-                    <l>Earth in forgetful snow, feeding</l>
+                    <l>Earth in <rdg xml:id="rdg-12">forgetful</rdg> snow, feeding</l>
                     <l>A little life with dried tubers.</l>
                     <l>Summer surprised us, coming over Königssee</l>
                     <l>With a shower of rain; we stopped in the colonnade,</l>
@@ -188,8 +188,10 @@
                     <l>My cousin's, he took me out on a sled,</l>
                     <l>And I was frightened. He said, Marie,</l>
                     <l>Marie, hold on tight. And down we went.</l>
-                    <l>In the mountains, there you feel free.</l>
+                    <l>In the mountains, <rdg xml:id="rdg-13">there you feel free.</rdg></l>
                     <l>I read, much of the night, and go south in the winter.</l>
+                </lg>
+                <lg>
                     <line>  *  *  *  *  <lb/></line>
                     <l>What are the roots that clutch, what branches grew</l>
                     <l>Out of this stony rubbish! Son of man,</l>
@@ -205,15 +207,15 @@
                     <line>  *  *  *  *  <lb/></line>
                 </lg>
                 <lg xml:id="lg-2">
-                    <l><app><rdg><del>Mein</del></rdg></app> Frisch schwebt der Wind </l>
-                    <l>     Der Heimat zu,</l>
-                    <l>     Mein Irisch' Kind,</l>
-                    <l>     Wo weilest du?</l>
+                    <l><app><rdg xml:id="rdg-14"><del xml:id="del-12">Mein</del></rdg></app> Frisch <rdg xml:id="rdg-15"><subst xml:id="sub-5"><del xml:id="del-13">schwebt</del><add xml:id="add-5">weht</add></subst></rdg> der Wind </l>
+                    <l>        Der Heimat zu,</l>
+                    <l>        Mein Irisch' Kind,</l>
+                    <l>        Wo weilest du?</l>
                     <l>"You fave me hyacinths first a year ago; </l>
                     <l>"They called me the hyacinth girl".</l>
                     <l>- Yet when we came back, late, from the hyacinth garden,</l>
-                    <l>Your arms full, and your hair wet, I could not</l>
-                    <l>Speak, and my eyes failed, I was neither</l>
+                    <l>Your arms full, and your hair wet, <rdg xml:id="rdg-16a">I could not</rdg></l>
+                    <l><rdg xml:id="rdg-16b">Speak</rdg>, and my eyes failed, I was neither</l>
                     <l>Living nor dead, and I knew nothing,</l>
                     <l>Looking into the heart of light, the silence.</l> 
                 </lg>
