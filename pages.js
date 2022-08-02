@@ -63,8 +63,8 @@ function prevPage() {
   }
   else if (two.getAttribute('style') == "display: block;") {
     two.style.display="none";
-    document.getElementById("back-1").remove();
     one.style.display="block";
+    document.getElementById("back-1").classList.add('hidden');
   }
   else if (three.getAttribute('style') == "display: block;") {
     three.style.display="none";
@@ -121,6 +121,8 @@ function finalVer() {
     arrow.setAttribute('src', 'https://thewwwasteland.github.io/images/arrow1.png');
     arrow.setAttribute('id', 'back-1');
     document.body.appendChild(arrow);
+    document.getElementById('rdg-12').classList.toggle('highlightPound');
+    document.getElementById('rdg-13').classList.toggle('highlightPound');
   }
 };
 
