@@ -1169,27 +1169,27 @@ tei-lg {
 }
 
 input:checked + .green {
-  background-color: rgb(34,139,34);
+  background-color: #06d6a0;
 }
 
 input:focus + .green {
-  box-shadow: 0 0 1px rgb(34,139,34);
+  box-shadow: 0 0 1px #06d6a0;
 }
 
 input:checked + .blue {
-  background-color: rgb(137, 207, 240);
+  background-color: #118ab2;
 }
 
 input:focus + .blue {
-  box-shadow: 0 0 1px rgb(137, 207, 240);
+  box-shadow: 0 0 1px #118ab2;
 }
 
 input:checked + .red {
-  background-color: red;
+  background-color: #ef476f;
 }
 
 input:focus + .red {
-  box-shadow: 0 0 1px red;
+  box-shadow: 0 0 1px #ef476f;
 }
 
 input:checked + .slider:before {
