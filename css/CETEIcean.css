@@ -1241,8 +1241,11 @@ input:checked + .slider:before {
 #secList {
     position:absolute;
     bottom: 3em;
-    left: calc(30vw-10em);
+    left: 0;
     width: 20em;
 }
-
+#pageList ul, #secList ul {
+  margin: 0;
+  padding: 0;
+}
 
