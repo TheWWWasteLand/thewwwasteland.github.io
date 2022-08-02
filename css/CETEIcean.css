@@ -957,7 +957,7 @@ tei-text {
 }
 .low-bar {
     border-top: solid 0.5px #000;
-    padding-right: 35vw;
+    padding-right: 30vw;
     height: 4em;
     margin-left: -4.5em !important;
     position: fixed;
@@ -1227,15 +1227,20 @@ input:checked + .slider:before {
   position:absolute;
   bottom: 3em;
 }
+#pageList li, #secList li {
+    display: block;
+}
 #pageList li:hover, #secList li:hover {
   background-color: #f9f9f9
 }
 #pageList {
     height: 6em;
-    right: 40vw;
+    width: 2.5em;
+    right: calc(30vw + 10em);
 }
 #secList {
+    width: 7em;
     height: 3em;
-    right: 35vw;
+    right: 30vw;
 }
 
