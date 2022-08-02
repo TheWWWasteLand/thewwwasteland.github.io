@@ -23,6 +23,7 @@ function nextPage() {
   }
   else if (two.getAttribute('style') == "display: block;") {
     two.style.display="none";
+    document.getElementById("back-1").remove();
     three.style.display="block";
   }
   else if (three.getAttribute('style') == "display: block;") {
@@ -50,6 +51,7 @@ function prevPage() {
   }
   else if (two.getAttribute('style') == "display: block;") {
     two.style.display="none";
+    document.getElementById("back-1").remove();
     one.style.display="block";
   }
   else if (three.getAttribute('style') == "display: block;") {
