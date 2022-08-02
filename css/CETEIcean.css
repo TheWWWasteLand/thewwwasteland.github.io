@@ -1235,13 +1235,13 @@ input:checked + .slider:before {
 #pageList {
     position:absolute;
     bottom: 3em;
-    left: calc(30vw + 11.8em);
+    left: calc(30vw + 11.8em - 1px);
     width: 3.6em;
 }
 #secList {
     position:absolute;
     bottom: 3em;
-    left: calc(30vw - 3.5em);
+    left: calc(30vw - 4.5em);
     width: 15em;
 }
 #pageList ul, #secList ul {
