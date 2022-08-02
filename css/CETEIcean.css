@@ -1235,11 +1235,11 @@ input:checked + .slider:before {
   background-color: #f9f9f9
 }
 #pageList {
-    left: calc(30vw+30em);
-    width: 5em;
+    left: calc(30vw+40em);
+    width: 4em;
 }
 #secList {
-    left: calc(30vw+38em);
+    left: calc(30vw-10em);
     width: 20em;
 }
 #pageList ul, #secList ul {
