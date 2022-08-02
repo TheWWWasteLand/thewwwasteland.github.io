@@ -1168,12 +1168,20 @@ tei-lg {
   transition: .4s;
 }
 
-input:checked + .slider {
-  background-color: #2196F3;
+input:checked + .green {
+  background-color: rgb(34,139,34);
 }
 
-input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
+input:focus + .green {
+  box-shadow: 0 0 1px rgb(34,139,34);
+}
+
+input:checked + .red {
+  background-color: red;
+}
+
+input:focus + .red {
+  box-shadow: 0 0 1px red;
 }
 
 input:checked + .slider:before {
