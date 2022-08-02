@@ -1001,10 +1001,10 @@ tei-body tei-div {
     padding-bottom: 0em !important;
 }
 .highlight {
-    border: solid 0.5px red !important;
+    border: solid 0.5px #ef476f !important;
 }
-.highlight {
-    border: solid 0.5px red;
+.highlightPound {
+    border: solid 0.5px #118ab2;
     border-radius: 3px;
 }
 #rdg-12 {
@@ -1019,7 +1019,7 @@ tei-del {
          linear-gradient(to top left,
              rgba(0,0,0,0) 0%,
              rgba(0,0,0,0) calc(52% - 0.8px),
-             rgba(255,0,0,1) 52%,
+             #ef476f 52%,
              rgba(0,0,0,0) calc(52% + 0.8px),
              rgba(0,0,0,0) 100%);
 }
@@ -1030,9 +1030,9 @@ tei-note {
 
 #note-1 tei-del {
     position:absolute;
-    color: red;
+    color: #ef476f;
     text-decoration: line-through;
-    text-decoration-color: red;
+    text-decoration-color: #ef476f;
     text-align:right;
     right: 7vw;
     top: 24em;
@@ -1041,7 +1041,7 @@ tei-note {
 
 #note-2 {
     position:absolute;
-    color: red;
+    color: #ef476f;
     text-align:right;  
     right: 7vw;
     top: 28.2em;
@@ -1050,29 +1050,29 @@ tei-note {
 
 #note-3 tei-del {
     text-decoration: line-through;
-    text-decoration-color: red;
+    text-decoration-color: #ef476f;
 }
 
 #note-4 tei-del {
     text-decoration: line-through;
-    text-decoration-color: red;
+    text-decoration-color: #ef476f;
 }
 #note-3 {
     position:absolute;
-    color: red;
+    color: #ef476f;
     right: 18em;
     top: 75em;
 }
 #note-4 {
     position:absolute;
-    color: red;
+    color: #ef476f;
     line-height: 0.8em;
     top: 79.5em;
     right: 13em;
 }
 .line-del {
    text-decoration: line-through;
-   text-decoration-color: red;
+   text-decoration-color: #ef476f;
 }
 * {box-sizing: border-box;}
 
@@ -1094,7 +1094,7 @@ tei-graphic img {
 }    
 
 tei-add {
-    color: red;
+    color: #ef476f;
     display: block;
     position: absolute;
 }
@@ -1126,7 +1126,7 @@ tei-add {
 }
 #rdg-1 {
     display:none;
-    color: red;
+    color: #ef476f;
 }
 #back-1 {
     position: absolute;
