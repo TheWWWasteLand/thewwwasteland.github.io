@@ -1003,6 +1003,13 @@ tei-body tei-div {
 .highlight {
     border: solid 0.5px red !important;
 }
+.highlight {
+    border: solid 0.5px red;
+    border-radius: 3px;
+}
+#rdg-12 {
+    border-top: none !important;
+}
 tei-del {
     display: inline-block;
 }
