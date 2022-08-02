@@ -958,7 +958,7 @@ tei-text {
 .low-bar {
     border-top: solid 0.5px #000;
     padding-right: 35vw;
-    height: 4.5em;
+    height: 4em;
     margin-left: -4.5em !important;
     position: fixed;
     bottom: 0;
@@ -969,8 +969,10 @@ tei-text {
 }
 
 .right {
-    padding-top: -2px !important;
-    padding-bottom: -2px !important;
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+    white-space: pre;
+    margin-left: 1em;
     float: right;
     border-radius: 3px;
     border: solid 0.5px #333;
@@ -1216,5 +1218,24 @@ input:checked + .slider:before {
 .bolder {
   cursor: pointer;
   font-weight: 600;
+}
+#pageList, #secList {
+  list-style-type: none;
+  background-color: white;
+  border-radius: 3px;
+  border: solid 0.5px #333;
+  position:absolute;
+  bottom: 3em;
+}
+#pageList li:hover, #secList li:hover {
+  background-color: #f9f9f9
+}
+#pageList {
+    height: 6em;
+    right: 40vw;
+}
+#secList {
+    height: 3em;
+    right: 35vw;
 }
 
