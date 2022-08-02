@@ -141,7 +141,26 @@ function sec() {
 };
 function page() {
   document.getElementById('pageList').classList.toggle('hidden');
-}
+};
+
+function TElliot() {
+  var i, one, two, three, four, five;;
+  i = document.getElementById('page-i');
+  one = document.getElementById('page-2');
+  two = document.getElementById('page-3');
+  three = document.getElementById('page-4');
+  four = document.getElementById('page-5');
+  five = document.getElementById('page-6')
+  if (one.getAttribute('style') == "display: block;") {
+    const rdg1 = document.getElementById('rdg-1');
+    if (rdg1.getAttribute('style') == "inline") {
+      rdg1.style.display="none";
+    }
+    else {
+      rdg1.style.display="inline";
+    }
+  }
+}  
 
 function magnify(imgID, zoom) {
   var img, glass, w, h, bw;
