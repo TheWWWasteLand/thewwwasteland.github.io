@@ -159,7 +159,7 @@ function TEliot() {
       document.getElementById('rdg-1').style.display="inline";
     }
   }
-}  
+};  
 
 function magnify(imgID, zoom) {
   var img, glass, w, h, bw;
