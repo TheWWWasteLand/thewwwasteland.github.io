@@ -1194,12 +1194,13 @@ input:checked + .slider:before {
     display:block;
     position:fixed;
     left: 0;
-    bottom:4.5em;
+    bottom:4em;
     z-index:101;
     background-color: white;
     width: 300px;
     border: solid 0.5px #000;
     border-bottom: none;
+    border-top-right-radius: 3px;
 }
 #selectAuthors p {
     padding-left: 2em;
@@ -1236,11 +1237,11 @@ input:checked + .slider:before {
 #pageList {
     height: 6em;
     width: 2.5em;
-    right: calc(30vw + 10em);
+    right: calc(24vw + 16em);
 }
 #secList {
-    width: 7em;
-    height: 3em;
-    right: 30vw;
+    width: 13em;
+    height: 5em;
+    right: 24vw;
 }
 
