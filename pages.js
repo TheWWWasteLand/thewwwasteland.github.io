@@ -134,6 +134,13 @@ function lens() {
   }
 };
 
+function sec() {
+  document.getElementById('secList').classList.toggle('hidden');
+};
+function page() {
+  document.getElementById('pageList').classList.toggle('hidden');
+}
+
 function magnify(imgID, zoom) {
   var img, glass, w, h, bw;
   img = document.getElementById(imgID);
