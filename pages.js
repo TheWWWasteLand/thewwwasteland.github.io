@@ -123,6 +123,8 @@ function finalVer() {
     document.body.appendChild(arrow);
     document.getElementById('rdg-12').classList.toggle('highlightPound');
     document.getElementById('rdg-13').classList.toggle('highlightPound');
+    document.getElementById('add-5').classList.toggle('hidden');
+    document.getElementById('del-12').classList.toggle('line-del');
   }
 };
 
