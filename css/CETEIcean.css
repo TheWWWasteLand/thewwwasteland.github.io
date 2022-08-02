@@ -957,7 +957,7 @@ tei-text {
 }
 .low-bar {
     border-top: solid 0.5px #000;
-    padding-right: 30vw;
+    padding-left: 30vw;
     height: 4em;
     margin-left: -4.5em !important;
     position: fixed;
@@ -973,7 +973,7 @@ tei-text {
     padding-bottom: 2px !important;
     white-space: pre;
     margin-left: 1em;
-    float: right;
+    float: left;
     border-radius: 3px;
     border: solid 0.5px #333;
 }
@@ -1226,16 +1226,21 @@ input:checked + .slider:before {
   border-radius: 3px;
   border: solid 0.5px #333;
   position:absolute;
-  bottom: 10em;
-  left: 10em;
-  width: calc(100vw-10em);
-  height: calc(100vh- 10em);
+  bottom: 3em;
 }
 #pageList li, #secList li {
     display: block;
 }
 #pageList li:hover, #secList li:hover {
   background-color: #f9f9f9
+}
+#pageList {
+    left: calc(30vw+30em);
+    width: 5em;
+}
+#secList {
+    left: calc(30vw+38em);
+    width: 20em;
 }
 
 
