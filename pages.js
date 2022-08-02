@@ -143,7 +143,7 @@ function page() {
   document.getElementById('pageList').classList.toggle('hidden');
 };
 
-function TElliot() {
+function TEliot() {
   var i, one, two, three, four, five;;
   i = document.getElementById('page-i');
   one = document.getElementById('page-2');
