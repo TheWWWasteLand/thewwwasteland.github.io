@@ -155,8 +155,8 @@ function TEliot() {
     if (document.getElementById('rdg-1').getAttribute('style') == "display: inline;") {
       document.getElementById('rdg-1').style.display="none";
     }
-    else {
-      console.log("Hello world!");
+    else if (document.getElementById('rdg-1').getAttribute('style') != "display: inline;") {
+      document.getElementById('rdg-1').style.display="inline";
     }
   }
 }  
