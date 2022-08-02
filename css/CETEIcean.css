@@ -1225,8 +1225,6 @@ input:checked + .slider:before {
   background-color: white;
   border-radius: 3px;
   border: solid 0.5px #333;
-  position:absolute;
-  bottom: 3em;
 }
 #pageList li, #secList li {
     display: block;
@@ -1235,10 +1233,14 @@ input:checked + .slider:before {
   background-color: #f9f9f9
 }
 #pageList {
+    position:absolute;
+    bottom: 3em;
     left: calc(30vw+40em);
     width: 4em;
 }
 #secList {
+    position:absolute;
+    bottom: 3em;
     left: calc(30vw-10em);
     width: 20em;
 }
