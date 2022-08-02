@@ -1,3 +1,11 @@
+window.onload = function() {
+  document.getElementById('add-1').classList.add('hidden');
+  document.getElementById('add-2a').classList.add('hidden');
+  document.getElementById('add-2b').classList.add('hidden');
+  document.getElementById('add-2c').classList.add('hidden');
+  document.getElementById('add-3').classList.add('hidden');
+};
+
 function nextPage() {
   var i, one, two, three, four, five, autList, pageList, secList;
   i = document.getElementById('page-i');
@@ -22,11 +30,6 @@ function nextPage() {
     i.style.display="none";
     one.style.display="block";
     document.getElementById('prev').style.display="block";
-    document.getElementById('add-1').classList.add('hidden');
-    document.getElementById('add-2a').classList.add('hidden');
-    document.getElementById('add-2b').classList.add('hidden');
-    document.getElementById('add-2c').classList.add('hidden');
-    document.getElementById('add-3').classList.add('hidden');
     document.getElementById('add-4').classList.add('hidden');
   }
   else if (one.getAttribute('style') == "display: block;") {
