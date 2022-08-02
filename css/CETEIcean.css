@@ -1210,6 +1210,8 @@ input:checked + .slider:before {
 }
 #selectAutList {
     list-style-type: none !important;
+    margin: 0;
+    padding-left: 0.5em;
 }
 #selectAutList li {
     padding-left: 0em !important;
