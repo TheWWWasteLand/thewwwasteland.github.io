@@ -1234,9 +1234,9 @@ input:checked + .slider:before {
 }
 #pageList {
     position:absolute;
-    bottom: 2.6em;
+    bottom: 3em;
     left: calc(30vw + 11.2em);
-    width: 4em;
+    width: 3.5em;
 }
 #secList {
     position:absolute;
