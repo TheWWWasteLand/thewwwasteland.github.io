@@ -156,7 +156,7 @@ function TEliot() {
       document.getElementById('rdg-1').style.display="none";
     }
     else {
-      document.getElementById('rdg-1').style.display="inline";
+      console.log("Hello world!");
     }
   }
 }  
