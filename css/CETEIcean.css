@@ -957,7 +957,7 @@ tei-text {
 }
 .low-bar {
     border-top: solid 0.5px #000;
-    padding-right: 20vw;
+    padding-right: 30vw;
     height: 4em;
     margin-left: -4.5em !important;
     position: fixed;
@@ -1226,7 +1226,10 @@ input:checked + .slider:before {
   border-radius: 3px;
   border: solid 0.5px #333;
   position:absolute;
-  bottom: 3em;
+  bottom: 10em;
+  left: 10em;
+  width: calc(100vw-10em);
+  height: calc(100vh- 10em);
 }
 #pageList li, #secList li {
     display: block;
@@ -1234,14 +1237,5 @@ input:checked + .slider:before {
 #pageList li:hover, #secList li:hover {
   background-color: #f9f9f9
 }
-#pageList {
-    height: 10em;
-    width: 4em;
-    right: calc(24vw + 23em);
-}
-#secList {
-    width: 20em;
-    height: 4em;
-    right: 20vw;
-}
+
 
