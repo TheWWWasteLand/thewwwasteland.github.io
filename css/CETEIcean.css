@@ -1129,7 +1129,7 @@ tei-add {
     top: 38em;
 }
 tei-lg {
-    display: inline-block;
+    display: block;
     padding-bottom: 1.5em;
 }
 .switch {
