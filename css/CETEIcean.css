@@ -1176,6 +1176,14 @@ input:focus + .green {
   box-shadow: 0 0 1px rgb(34,139,34);
 }
 
+input:checked + .blue {
+  background-color: rgb(137, 207, 240);
+}
+
+input:focus + .blue {
+  box-shadow: 0 0 1px rgb(137, 207, 240);
+}
+
 input:checked + .red {
   background-color: red;
 }
