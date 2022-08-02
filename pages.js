@@ -152,7 +152,7 @@ function TEliot() {
   four = document.getElementById('page-5');
   five = document.getElementById('page-6')
   if (i.getAttribute('style') != "display: none;") {
-    if (document.getElementById('rdg-1').getAttribute('style') == "inline") {
+    if (document.getElementById('rdg-1').getAttribute('style') == "display: inline;") {
       document.getElementById('rdg-1').style.display="none";
     }
     else {
