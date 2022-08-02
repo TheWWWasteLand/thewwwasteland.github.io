@@ -35,8 +35,8 @@ function nextPage() {
   }
   else if (two.getAttribute('style') == "display: block;") {
     two.style.display="none";
-    document.getElementById("back-1").remove();
     three.style.display="block";
+    document.getElementById("back-1").classList.add('hidden');
   }
   else if (three.getAttribute('style') == "display: block;") {
     three.style.display="none";
