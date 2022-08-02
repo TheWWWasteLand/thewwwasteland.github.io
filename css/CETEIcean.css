@@ -1234,15 +1234,15 @@ input:checked + .slider:before {
 }
 #pageList {
     position:absolute;
-    bottom: 3em;
-    left: calc(30vw + 10em);
+    bottom: 2.6em;
+    left: calc(30vw + 11.2em);
     width: 4em;
 }
 #secList {
     position:absolute;
     bottom: 3em;
-    left: calc(30vw - 16em);
-    width: 20em;
+    left: calc(30vw + 7em);
+    width: 15em;
 }
 #pageList ul, #secList ul {
   margin: 0;
