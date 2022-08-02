@@ -151,7 +151,7 @@ function TEliot() {
   three = document.getElementById('page-4');
   four = document.getElementById('page-5');
   five = document.getElementById('page-6')
-  if (one.getAttribute('style') == "display: block;") {
+  if (i.getAttribute('style') != "display: none;") {
     const rdg1 = document.getElementById('rdg-1');
     if (rdg1.getAttribute('style') == "inline") {
       rdg1.style.display="none";
