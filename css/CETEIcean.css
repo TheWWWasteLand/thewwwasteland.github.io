@@ -1241,7 +1241,7 @@ input:checked + .slider:before {
 #secList {
     position:absolute;
     bottom: 3em;
-    left: calc(30vw - 4.5em);
+    left: calc(30vw - 4.3em);
     width: 15em;
 }
 #pageList ul, #secList ul {
