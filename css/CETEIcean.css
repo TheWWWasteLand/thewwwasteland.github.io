@@ -1236,7 +1236,7 @@ input:checked + .slider:before {
 }
 #pageList {
     height: 6em;
-    width: 2.5em;
+    width: 4em;
     right: calc(24vw + 16em);
 }
 #secList {
