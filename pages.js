@@ -179,12 +179,10 @@ function TEliot() {
   four = document.getElementById('page-5');
   five = document.getElementById('page-6')
   if (i.getAttribute('style') != "display: none;") {
-    if (document.getElementById('rdg-1').getAttribute('style') == "display: inline;") {
-      document.getElementById('rdg-1').style.display="none";
-    }
-    else if (document.getElementById('rdg-1').getAttribute('style') != "display: inline;") {
-      document.getElementById('rdg-1').style.display="inline";
-    }
+    document.getElementById("add-i").classList.toggle('hidden');
+  }
+  else if (i.getAttribute('style') != "display: none;") {
+    finalVer();
   }
 };  
 
