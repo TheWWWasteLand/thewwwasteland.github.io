@@ -129,7 +129,7 @@ function finalVer() {
     document.body.appendChild(arrow);
     document.getElementById('rdg-12').classList.toggle('highlightPound');
     document.getElementById('rdg-13').classList.toggle('highlightPound');
-    document.getElementById('lg-2').classList.toggle('highlightPound');
+    document.getElementById('lg-2').classList.toggle('highlight');
     document.getElementById('add-5').classList.toggle('hidden');
     document.getElementById('del-12').classList.toggle('line-del');
     document.getElementById('under-1a').classList.toggle('underline');
