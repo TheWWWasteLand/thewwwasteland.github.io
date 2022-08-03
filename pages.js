@@ -93,7 +93,7 @@ function finalVer() {
   two = document.getElementById('page-3');
   document.getElementById('selectAuthors').classList.remove('hidden');
   if (i.getAttribute('style') != "display: none;") {
-    document.getElementById("rdg-1").style.display="inline";
+    document.getElementById("add-i").classList.toggle('hidden');
   }
   else if (one.getAttribute('style') == "display: block;") {
     document.getElementById('lg-1').classList.toggle('highlight');
