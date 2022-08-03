@@ -97,7 +97,7 @@ tei-address[data-tei-rend~="block"], addresss[data-tei-rendition~="#block"] {
 tei-adminInfo {
   display: block;
 }
-tei-app tei-note {
+tei-app {
   display: none;
 }
 tei-appInfo {
@@ -1022,10 +1022,6 @@ tei-del {
              #ef476f 52%,
              rgba(0,0,0,0) calc(52% + 0.8px),
              rgba(0,0,0,0) 100%);
-}
-
-tei-note {
-    display:none;
 }
 
 #note-1 tei-del {
