@@ -3,6 +3,10 @@ window.onload = function() {
   for (let i = 0; i < add.length; i++) {
     add[i].classList.add('hidden');
   }
+  const note document.getElementsByTagName("tei-note");
+  for (let i = 0; i < note.length; i++) {
+    note[i].classList.add('hidden');
+  }
 };
 
 function nextPage() {
@@ -113,10 +117,10 @@ function finalVer() {
     document.getElementById('del-8b').classList.toggle('line-del');
     document.getElementById('del-10').classList.toggle('line-del');
     document.getElementById('del-11').classList.toggle('line-del');
-    document.getElementById('note-1').style.display="block";
-    document.getElementById('note-2').style.display="block";
-    document.getElementById('note-3').style.display="block";
-    document.getElementById('note-4').style.display="block";
+    document.getElementById('note-1').classList.toggle('hidden');
+    document.getElementById('note-2').classList.toggle('hidden');
+    document.getElementById('note-3').classList.toggle('hidden');
+    document.getElementById('note-4').classList.toggle('hidden');
   }
   else if (two.getAttribute('style') == "display: block;") {
     const arrow = document.createElement("img");
