@@ -412,15 +412,6 @@ tei-figure > tei-head {
   font-family: Georgia, Serif;
   font-size: 13pt;
 }
-tei-hi[rend~="caps"] {
-  font-weight:bold;
-}
-tei-hi[rend~="italic"] {
-  font-style: italic;
-}
-tei-hi[rend~="underline"] {
-  text-decoration: underline;
-}
 tei-ident {
   font-family: Courier,monospace;
 }
@@ -1293,7 +1284,9 @@ input:checked + .slider:before {
     top: 62.5em;
     padding-left: 6em;
 }
-
+.underline {
+    text-decoration: underline;
+}
     
     
     
