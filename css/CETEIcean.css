@@ -1,3 +1,9 @@
+tei-rdg[hand=Pound] {
+    color: #118ab2;
+    text-decoration-color: #118ab2;
+}
+
+
 /* This is a sample stylesheet for use with CETEIcean. It is not intended    */
 /* to be comprehensive. The rules here are largely derived from earlier work */
 /* on TEI Boilerplate                                                        */
@@ -1274,3 +1280,8 @@ input:checked + .slider:before {
     top: 62.5em;
     padding-left: 6em;
 }
+
+    
+    
+    
+    
