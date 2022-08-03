@@ -22,6 +22,9 @@
     direction:ltr;
     text-align:left;
 }
+tei-del[hand=TEliot] {
+    text-decoration-color: #ef476f;
+}
 tei-rdg[hand=TEliot] {
     text-decoration-color: #ef476f;
 }
@@ -31,6 +34,9 @@ tei-add[hand=TEliot] {
 }
 tei-hi[hand=TEliot] {
     text-decoration-color:  #ef476f;
+}
+tei-del[hand=Pound] {
+    text-decoration-color: #118ab2;
 }
 tei-rdg[hand=Pound] {
     text-decoration-color: #118ab2;
