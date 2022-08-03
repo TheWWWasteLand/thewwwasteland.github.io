@@ -1,7 +1,7 @@
 window.onload = function() {
   const add = document.getElementsByTagName("tei-add");
   for (let i = 0; i < add.length; i++) {
-    add[0].classList.add('hidden')
+    add[i].classList.add('hidden');
   }
 };
 
