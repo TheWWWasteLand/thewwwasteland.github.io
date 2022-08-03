@@ -22,7 +22,26 @@
     direction:ltr;
     text-align:left;
 }
-
+tei-rdg[hand=TEliot] {
+    text-decoration-color: #ef476f;
+}
+tei-add[hand=TEliot] {
+    color: #118ab2;
+    text-decoration-color:  #ef476f;
+}
+tei-hi[hand=TEliot] {
+    text-decoration-color:  #ef476f;
+}
+tei-rdg[hand=Pound] {
+    text-decoration-color: #118ab2;
+}
+tei-add[hand=Pound] {
+    color: #118ab2;
+    text-decoration-color:  #118ab2;
+}
+tei-hi[hand=Pound] {
+    text-decoration-color:  #118ab2;
+}
 /* Choice elements */
 tei-choice tei-abbr + tei-expan:before,
 tei-choice tei-expan + tei-abbr:before,
