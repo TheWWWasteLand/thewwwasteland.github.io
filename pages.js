@@ -2,7 +2,7 @@ window.onload = function() {
   const add = document.getElementsByTagName("tei-add");
   for (let i = 0; i < add.length; i++) {
     add[i].classList.add('hidden');
-  }
+  };
   const note document.getElementsByTagName("tei-note");
   for (let i = 0; i < note.length; i++) {
     note[i].classList.add('hidden');
