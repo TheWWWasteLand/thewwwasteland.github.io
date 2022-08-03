@@ -214,10 +214,10 @@
                     <l>"You fave me hyacinths first a year ago; </l>
                     <l>"They called me the hyacinth girl".</l>
                     <l>- Yet when we came back, late, from the hyacinth garden,</l>
-                    <l>Your arms full, and your hair wet, <rdg xml:id="rdg-16a">I could not</rdg></l>
-                    <l><rdg xml:id="rdg-16b">Speak</rdg>, and my eyes failed, I was neither</l>
+                    <l>Your arms full, and your hair wet, <rdg xml:id="rdg-16a" hand="Pound"><hi>I could not</hi></rdg></l>
+                    <l><rdg xml:id="rdg-16b" hand="Pound"><hi>Speak</hi></rdg>, and my eyes failed, I was neither</l>
                     <l>Living nor dead, and I knew nothing,</l>
-                    <l>Looking into the heart of light, the silence.</l> 
+                    <l><rdg xml:id="rdg-17"><del xml:id="del-14">Looking into the heart of light, the silence.</del></rdg></l> 
                 </lg>
                 <lg>
                     <lb/><l>Madame Sosostris, famous clairvoyant,</l>
