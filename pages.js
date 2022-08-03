@@ -181,7 +181,7 @@ function TEliot() {
   if (i.getAttribute('style') != "display: none;") {
     document.getElementById("add-i").classList.toggle('hidden');
   }
-  else if (i.getAttribute('style') != "display: none;") {
+  else if (one.getAttribute('style') != "display: none;") {
     finalVer();
   }
 };  
