@@ -208,24 +208,24 @@
                 </lg>
                 <lg xml:id="lg-2">
                     <l><app><rdg xml:id="rdg-14"><del xml:id="del-12">Mein</del></rdg></app> Frisch <rdg xml:id="rdg-15"><subst xml:id="sub-5"><del xml:id="del-13">schwebt</del><add xml:id="add-5">weht</add></subst></rdg> der Wind </l>
-                    <l>        Der Heimat zu,</l>
-                    <l>        Mein Irisch' Kind,</l>
-                    <l>        Wo weilest du?</l>
+                    <l>           Der Heimat zu,</l>
+                    <l>           Mein Irisch' Kind,</l>
+                    <l>           Wo weilest du?</l>
                     <l>"You fave me hyacinths first a year ago; </l>
                     <l>"They called me the hyacinth girl".</l>
                     <l>- Yet when we came back, late, from the hyacinth garden,</l>
-                    <l>Your arms full, and your hair wet, <rdg xml:id="rdg-16a" hand="Pound"><hi>I could not</hi></rdg></l>
-                    <l><rdg xml:id="rdg-16b" hand="Pound"><hi>Speak</hi></rdg>, and my eyes failed, I was neither</l>
+                    <l>Your arms full, and your hair wet, <rdg xml:id="rdg-16a" hand="Pound"><hi rend="underline">I could not</hi></rdg></l>
+                    <l><rdg xml:id="rdg-16b" hand="Pound"><hi rend="underline">Speak</hi></rdg>, and my eyes failed, I was neither</l>
                     <l>Living nor dead, and I knew nothing,</l>
-                    <l><rdg xml:id="rdg-17"><del xml:id="del-14">Looking into the heart of light, the silence.</del></rdg></l> 
+                    <l>Looking into the heart of light, the silence.</l> 
                 </lg>
                 <lg>
-                    <lb/><l>Madame Sosostris, famous clairvoyant,</l>
+                    <lb/><l>Madame Sosostris, famous clairvoyant,<rdg xml:id="rdg-17"><add xml:id="6">e</add></rdg></l>
                     <l>Had a bad cold, nevertheless</l>
                     <l>Is known to be the wisest woman in Europe,</l>
                     <l>With a wicked pack of cards. Here, said she,</l>
                     <l>Is your card, the drowned Phoenician Sailor,</l>
-                    <l>(Those are pearls that were hist eyes, Look!</l>
+                    <l><rdg xml:id="rdg-18"><del xml:id="del-14">(Those are pearls that were hist eyes, Look!</del></rdg></l>
                     <l>Here is Belladonna, the Lady of the Rocks,</l>
                     <l>The lady of situations,</l>
                 </lg>
