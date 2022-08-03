@@ -131,8 +131,8 @@ function finalVer() {
     document.getElementById('rdg-13').classList.toggle('highlightPound');
     document.getElementById('add-5').classList.toggle('hidden');
     document.getElementById('del-12').classList.toggle('line-del');
-    document.getElementById('rdg-16a').classList.toggle('underlinePound');
-    document.getElementById('rdg-16b').classList.toggle('underlinePound');
+    document.getElementById('rdg-16a').classList.toggle('underline');
+    document.getElementById('rdg-16b').classList.toggle('underline');
     document.getElementById('del-13').classList.toggle('line-del'); 
     document.getElementById('del-14').classList.toggle('line-del');
     document.getElementById('del-15').classList.toggle('line-del'); 
