@@ -1,9 +1,8 @@
 window.onload = function() {
-  document.getElementById('add-1').classList.add('hidden');
-  document.getElementById('add-2a').classList.add('hidden');
-  document.getElementById('add-2b').classList.add('hidden');
-  document.getElementById('add-2c').classList.add('hidden');
-  document.getElementById('add-3').classList.add('hidden');
+  const add = document.getElementsByTagName("tei-add");
+  for (let i = 0; i < add.length; i++) {
+    add[0].classList.add('hidden')
+  }
 };
 
 function nextPage() {
