@@ -1,11 +1,11 @@
 window.onload = function() {
   const add = document.getElementsByTagName("tei-add");
+  const note document.getElementsByTagName("tei-note")
   for (let i = 0; i < add.length; i++) {
     add[i].classList.add('hidden');
-  };
-  const note document.getElementsByTagName("tei-note");
-  for (let i = 0; i < note.length; i++) {
-    note[i].classList.add('hidden');
+  }
+  for (let a = 0; a < note.length; a++) {
+    note[a].classList.add('hidden');
   }
 };
 
