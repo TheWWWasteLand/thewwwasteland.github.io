@@ -1,3 +1,14 @@
+window.onload = function() {
+  const add = document.getElementsByTagName("tei-add");
+  const note = document.getElementsByTagName("tei-note")
+  for (let i = 0; i < add.length; i++) {
+    add[i].classList.add('hidden');
+  }
+  for (let a = 0; a < note.length; a++) {
+    note[a].classList.add('hidden');
+  }
+};
+
 function nextPage() {
   var i, one, two, three, four, five, autList, pageList, secList;
   i = document.getElementById('page-i');
