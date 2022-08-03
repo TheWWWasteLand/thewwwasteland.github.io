@@ -81,7 +81,7 @@
                         <line>THE BURIAL OF THE DEAD<lb/></line>
                     </head>
                 </p>
-                <lg><app><del xml:id="rdg-2">
+                <lg><app><del xml:id="rdg-2" hand="TEliot">
                     <l>First we had a couple of feelers down at Tom's place</l>
                     <l>There was old Tom, boiled to eyes, blind,</l>
                     <l>(Don't you remember that time after a dance,</l>
@@ -106,30 +106,30 @@
                     <l>What d'y' mean, she says, at two o'clock in the morning,</l>
                     <l>I'm not busy here for guys like you;</l>
                     <l>We've only had a raid last week, I've been warned twice.</l>
-                    <l><rdg xml:id="rdg-4"><del xml:id="del-4">Sergeant, I said</del></rdg>, I've kept a decent house for twenty years,</l>
+                    <l><rdg xml:id="rdg-4"><del xml:id="del-4" hand="TEliot">Sergeant, I said</del></rdg>, I've kept a decent house for twenty years,</l>
                     <l>There's three gents from the Buckingham Club upstairs now,</l>
                     <l>I'm going to retire and live on a farm, she says,</l>
                     <l>There's no money in it now, what with the damage done,</l>
-                    <l>And the reputation the place gets, <rdg xml:id="rdg-5"><subst><del xml:id="del-5">on account</del><add place="above" xml:id="add-1">off</add></subst></rdg> of a few bar-flies,</l>
+                    <l>And the reputation the place gets, <rdg xml:id="rdg-5"><subst><del xml:id="del-5" hand="TEliot">on account</del><add place="above" xml:id="add-1" hand="TEliot">off</add></subst></rdg> of a few bar-flies,</l>
                     <l>I've kept a clean house for twenty years, she says,</l>
                     <l>And the gents from Buckingham Club know they're safe here;</l>
                     <l>You was well introduced, but this is the last of you.</l>
                     <l>Get me a woman, I said; you're too drunk, she said,</l>
                     <l>But she gave me a bed, and a bath, and ham and eggs,</l>
-                    <l>And now you go get a shave, she said; <rdg xml:id="rdg-6"><subst xml:id="sub-2"><del xml:id="del-6a">I had a good laugh,</del><add xml:id="add-2a"><del xml:id="del-6b">couple of laughs (?)</del></add><add xml:id="add-2b"><del xml:id="del-6c">real<lb/>good(?)</del></add><add xml:id="add-2c"><del xml:id="del-6d">good laugh</del></add></subst></rdg></l>
-                    <l>Myrtle <rdg xml:id="rdg-7"><subst xml:id="sub-3"><del xml:id="del-7a">was</del> always a <del xml:id="del-7b">good sport").</del> <add xml:id="add-3">treated me white.</add></subst></rdg></l>
+                    <l>And now you go get a shave, she said; <rdg xml:id="rdg-6"><subst xml:id="sub-2"><del xml:id="del-6a" hand="TEliot">I had a good laugh,</del><add xml:id="add-2a" hand="TEliot"><del xml:id="del-6b">couple of laughs (?)</del></add><add xml:id="add-2b"><del xml:id="del-6c">real<lb/>good(?)</del></add><add xml:id="add-2c"><del xml:id="del-6d">good laugh</del></add></subst></rdg></l>
+                    <l>Myrtle <rdg xml:id="rdg-7"><subst xml:id="sub-3"><del xml:id="del-7a" hand="TEliot">was</del> always a <del xml:id="del-7b">good sport").</del> <add xml:id="add-3" hand="TEliot">treated me white.</add></subst></rdg></l>
                     <l>We'd just gone up the alley, a fly cop came along,</l>
                     <l>Looking for trouble; committing a nuisance, he said,</l> 
                     <l>You come on to the station. I'm sorry, I said,</l>
                     <l>It's no use being sorry, he said; let me get my hat, I said.</l>                    
                     <l>Well by a stroke of luck who came by but Mr.Donovan.</l>                    
                     <l>What's this, officer. You're new on this beat, aint you?</l>                    
-                    <l><rdg xml:id="rdg-8a"><del xml:id="del-8a">I thought so. You know who I am? Yes, I do,</del></rdg></l>                   
-                    <l><rdg xml:id="rdg-8b"><del xml:id="del-8b">Said the fresh cop, very peevish.</del></rdg> Then let it alone,</l>                   
+                    <l><rdg xml:id="rdg-8a"><del xml:id="del-8a" hand="TEliot">I thought so. You know who I am? Yes, I do,</del></rdg></l>                   
+                    <l><rdg xml:id="rdg-8b"><del xml:id="del-8b" hand="TEliot">Said the fresh cop, very peevish.</del></rdg> Then let it alone,</l>                   
                     <l>These gents are particular friends of mine.</l>                    
                     <l>-Wasn't it luck? Then we wen to the German Club,</l>                    
-                    <l><rdg xml:id="rdg-9"><subst xml:id="sub-4"><add xml:id="add-4">Us</add><del xml:id="del-9">We</del></subst></rdg> and Mr. Donovan and his friend <rdg xml:id="rdg-10"><del xml:id="del-10">Joe Leahy</del></rdg>,</l>                    
-                    <l><rdg xml:id="rdg-11"><del xml:id="del-11">Found it shut.</del></rdg> I want to get home, said the cabman,</l>
+                    <l><rdg xml:id="rdg-9"><subst xml:id="sub-4"><add xml:id="add-4" hand="TEliot">Us</add><del xml:id="del-9" hand="TEliot">We</del></subst></rdg> and Mr. Donovan and his friend <rdg xml:id="rdg-10"><del xml:id="del-10">Joe Leahy</del></rdg>,</l>                    
+                    <l><rdg xml:id="rdg-11"><del xml:id="del-11" hand="TEliot">Found it shut.</del></rdg> I want to get home, said the cabman,</l>
                     <l>We all go the same way home, said Mr. Donavan,</l>                                     
                     <l>Cheer up, Trixie and Stella; and put his foot through the window.</l>                                     
                     <l>The next I know the old cab was hauled up on the avenue,</l>                                     
@@ -139,23 +139,23 @@
                     <l>And Mr. Donovan holding the watch.</l>
                     <l>So I got out to see the sunrise, and walked home.</l> 
                 </del></app></lg>
-                <note id="note-1"><del><lg>
+                <note id="note-1" hand="TEliot"><del><lg>
                         <l>Meet me in the shadow of the</l>
                         <l>watermelon Vine</l>
                         <l>Eva Iva Uva Emmaline</l>
                     </lg></del>
                 </note>
-                <note id="note-2"><lg>
+                <note id="note-2" hand="TEliot"><lg>
                         <l>Tease, Squeeze lovin &#38; wooin</l>
                         <l>Say Kid what're y'</l>
                         <l>doin'</l>
                     </lg>
                 </note>
-                <note id="note-3"><lg>
+                <note id="note-3" hand="TEliot"><lg>
                         <l><del>me</del>?</l>
                     </lg>
                 </note>
-                <note id="note-4"><lg>
+                <note id="note-4" hand="TEliot"><lg>
                         <l> Gus</l>
                         <l><del>Heinie</del> Krutzsch</l>
                     </lg>
@@ -200,22 +200,22 @@
                     <l>And the dry stone no sound of water. Only</l>
                     <l>There is shadow under this red rock,</l>
                     <l>(Come in under the shadow of this red rock),</l>
-                    <l><app><rdg><del>And</del></rdg></app> I will show you something different from either</l>
+                    <l><app><rdg><del xml:id="del-12" hand="TEliot">And</del></rdg></app> I will show you something different from either</l>
                     <l>Your shadow at morning striding behind you</l>
                     <l>Or your shadow at evening rising to meet you;</l>
                     <l>I will show you fear in a handful of dust.</l>
                     <line>  *  *  *  *  <lb/></line>
                 </lg>
                 <lg xml:id="lg-2">
-                    <l><app><rdg xml:id="rdg-14"><del xml:id="del-12">Mein</del></rdg></app> Frisch <rdg xml:id="rdg-15"><subst xml:id="sub-5"><del xml:id="del-13">schwebt</del><add xml:id="add-5">weht</add></subst></rdg> der Wind </l>
+                    <l><app><rdg xml:id="rdg-14"><del xml:id="del-13" hand="TEliot">Mein</del></rdg></app> Frisch <rdg xml:id="rdg-15"><subst xml:id="sub-5"><del xml:id="del-14" hand="TEliot">schwebt</del><add xml:id="add-5" hand="TEliot">weht</add></subst></rdg> der Wind </l>
                     <l>           Der Heimat zu,</l>
                     <l>           Mein Irisch' Kind,</l>
                     <l>           Wo weilest du?</l>
                     <l>"You fave me hyacinths first a year ago; </l>
                     <l>"They called me the hyacinth girl".</l>
                     <l>- Yet when we came back, late, from the hyacinth garden,</l>
-                    <l>Your arms full, and your hair wet, <rdg xml:id="rdg-16a" hand="Pound"><hi rend="underline">I could not</hi></rdg></l>
-                    <l><rdg xml:id="rdg-16b" hand="Pound"><hi rend="underline">Speak</hi></rdg>, and my eyes failed, I was neither</l>
+                    <l>Your arms full, and your hair wet, <rdg xml:id="rdg-16a"><hi rend="underline" hand="Pound">I could not</hi></rdg></l>
+                    <l><rdg xml:id="rdg-16b"><hi rend="underline" hand="Pound">Speak</hi></rdg>, and my eyes failed, I was neither</l>
                     <l>Living nor dead, and I knew nothing,</l>
                     <l>Looking into the heart of light, the silence.</l> 
                 </lg>
@@ -225,7 +225,7 @@
                     <l>Is known to be the wisest woman in Europe,</l>
                     <l>With a wicked pack of cards. Here, said she,</l>
                     <l>Is your card, the drowned Phoenician Sailor,</l>
-                    <l><rdg xml:id="rdg-18"><del xml:id="del-14" hand="Pound">(Those are pearls that were hist eyes, Look!</del></rdg></l>
+                    <l><rdg xml:id="rdg-18"><del xml:id="del-15" hand="Pound">(Those are pearls that were hist eyes, Look!</del></rdg></l>
                     <l>Here is Belladonna, the Lady of the Rocks,</l>
                     <l>The lady of situations,</l>
                 </lg>
