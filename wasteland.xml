@@ -214,8 +214,8 @@
                     <l>"You fave me hyacinths first a year ago; </l>
                     <l>"They called me the hyacinth girl".</l>
                     <l>- Yet when we came back, late, from the hyacinth garden,</l>
-                    <l>Your arms full, and your hair wet, <rdg xml:id="rdg-16a"><hi rend="underline" hand="Pound">I could not</hi></rdg></l>
-                    <l><rdg xml:id="rdg-16b"><hi rend="underline" hand="Pound">Speak</hi></rdg>, and my eyes failed, I was neither</l>
+                    <l>Your arms full, and your hair wet, <rdg xml:id="rdg-16a"><hi xml:id="under-1a" rend="underline" hand="Pound">I could not</hi></rdg></l>
+                    <l><rdg xml:id="rdg-16b"><hi xml:id="under-1b" rend="underline" hand="Pound">Speak</hi></rdg>, and my eyes failed, I was neither</l>
                     <l>Living nor dead, and I knew nothing,</l>
                     <l>Looking into the heart of light, the silence.</l> 
                 </lg>
