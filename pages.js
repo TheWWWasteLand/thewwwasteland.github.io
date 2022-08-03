@@ -133,7 +133,7 @@ function finalVer() {
     document.getElementById('del-12').classList.toggle('line-del');
     document.getElementById('rdg-16a').classList.toggle('underlinePound'):
     document.getElementById('rdg-16b').classList.toggle('underlinePound'):
-    document.getElementById('del-14').classList.toggle('line-del'); 
+    document.getElementById('del-34').classList.toggle('line-del'); 
     document.getElementById('del-14').classList.toggle('line-del'); 
   }
 };
