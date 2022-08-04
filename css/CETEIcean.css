@@ -1293,7 +1293,7 @@ input:checked + .slider:before {
 }
 #note-6 tei-hi {
     text-decoration: line-through;
-    whitespace-pre;
+    white-space: pre;
 }
 #note-6 {
     position:absolute;
