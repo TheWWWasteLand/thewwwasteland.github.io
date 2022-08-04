@@ -134,10 +134,10 @@ function finalVer() {
     document.getElementById('del-12').classList.toggle('line-del');
     document.getElementById('under-1a').classList.toggle('underline');
     document.getElementById('under-1b').classList.toggle('underline');
+    document.getElementById('note-6').classList.toogle('hidden');
     document.getElementById('del-13').classList.toggle('line-del'); 
     document.getElementById('del-14').classList.toggle('line-del');
     document.getElementById('del-15').classList.toggle('line-del');
-    document.getElementById('note-6').classList.toogle('hidden');
   }
 };
 
