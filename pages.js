@@ -123,10 +123,6 @@ function finalVer() {
     document.getElementById('note-4').classList.toggle('hidden');
   }
   else if (two.getAttribute('style') == "display: block;") {
-    const arrow = document.createElement("img");
-    arrow.setAttribute('src', 'https://thewwwasteland.github.io/images/arrow1.png');
-    arrow.setAttribute('id', 'back-1');
-    document.body.appendChild(arrow);
     document.getElementById('rdg-12').classList.toggle('highlightPound');
     document.getElementById('rdg-13').classList.toggle('highlightPound');
     document.getElementById('lg-2').classList.toggle('highlight');
