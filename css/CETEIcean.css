@@ -1302,6 +1302,12 @@ input:checked + .slider:before {
     top: 79.5em;
     right: 13em;
 }
-    
-    
+#add-7 {
+    top: 8em;
+    padding-left: 5em;
+}
+#add-8 {
+    top: 6em;
+    padding-left: 5em;
+}
     
