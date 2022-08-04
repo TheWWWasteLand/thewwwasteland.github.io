@@ -1295,7 +1295,7 @@ input:checked + .slider:before {
     text-decoration: line-through;
     white-space: pre;
 }
-#note-6 {
+#note-5 {
     position:absolute;
     color: #ef476f;
     top: 60em;
