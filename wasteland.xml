@@ -220,7 +220,7 @@
                     <l>Looking into the heart of light, the silence.</l> 
                 </lg>
                 <lg>
-                    <lb/><l>Madame Sosostris, famous clairvoyant,<rdg xml:id="rdg-17"><add xml:id="6">e</add></rdg></l>
+                    <lb/><l>Madame Sosostris, famous clairvoyant,<rdg xml:id="rdg-17"><add xml:id="add-6">e</add></rdg></l>
                     <l>Had a bad cold, nevertheless</l>
                     <l>Is known to be the wisest woman in Europe,</l>
                     <l>With a wicked pack of cards. Here, said she,</l>
@@ -231,7 +231,7 @@
                 </lg>
                 <note xml:id="note-5" hand="TEliot">
                     <lg>
-                        <l><hi>                  </hi>Öd' und leer das Meer.</l>
+                        <l><hi xml:id="under-2">                  </hi>Öd' und leer das Meer.</l>
                     </lg>
                 </note>
             </div>
@@ -244,23 +244,23 @@
                     <line>3.<lb/></line>
                 </head>
                 <lg>
-                    <l>Here is the man with three staves, and here the Wheel,</l>
+                    <l>Here is the <rdg xml:id="rdg-19" hand="TEliot">man with three staves<add xml:id="add-7" place="above" hand="TEliot"><del xml:id="del-16" hand="TEliot">King fishing</del></add><add xml:id="add-8" place="above" hand="TEliot">fishing King</add></rdg>, and here the Wheel,</l>
                     <l>And here is the onw-eyes merchant, and this card,</l>
                     <l>Which is blank, is something he carries on his back,</l>
-                    <l>Which I am forbidden to see. I look in vain</l>
+                    <l>Which I am forbidden to see. <rdg xml:id="rdg-20" hand="Pound">I look in vain</rdg></l>
                     <l>For the Hanged Man. Fear death by water.</l>
                     <l>I see crowds of people, walking round in a ring.</l>
-                    <l>(I John daw these things, and heard them).</l>
+                    <l><rdg xml:id="rdg-21"><del xml:id="del-17" hand="Pound">(I John saw these things, and heard them)</del></rdg>.</l>
                     <l>Thank you. If you see dear Mrs. Equitone,</l>
                     <l>Tell her I bring the horoscope myself,</l>
                     <l>One must be so careful these days.</l>
                 </lg>
                 <lg>
-                    <l>Terrible City, I have sometimes seen and see</l>
-                    <l>Under the brown fog of your winter dawn</l>
+                    <l><rdg xml:id="rdg-22"><subst xml:id="sub-6"><del xml:id="del-18a" hand="Pound">Terrible</del><add xml:id="add-8" hand="Pound" place="above"></add></subst> City<del xml:id="del-18b" hand="Pound">,</del> I have sometimes seen and see</rdg></l>
+                    <l>Under the brown fog of <rdg xml:id="rdg-23" hand="Pound">your</rdg> winter dawn</l>
                     <l>A crowd flow over London Bridge, so many,</l>
                     <l>I had not thought death had undone so many.</l>
-                    <l>Sighs, short and infrequent, were expired,</l>
+                    <l>Sighs, short and infrequent, were <rdg xml:id="rdg-24"><subst xml:id="sub-7"><del xml:id="del-19a" hand="TEliot">expired</del>,<add xml:id="add-9a" hand="TEliot"><del xml:id="del-19b" hand="TEliot">exhaled.</del></add><add xml:id="add-9b" hand="TEliot"><del xml:id="del-19c" hand="TEliot">expired.</del></add><add xml:id="add-9c" hand="TEliot">exhaled.</add></l>
                     <l>And each one kept his eyes before his feet.</l>
                     <l>Flowed up the hill and down King William Street,</l>
                     <l>To where Saint Mary Woolnoth kept the time,</l>
