@@ -1291,8 +1291,9 @@ input:checked + .slider:before {
 .underline {
     text-decoration: underline;
 }
-#note-6 tei-hi {
+#note-5 tei-hi {
     text-decoration: line-through;
+    text-decoration-color: #ef476f;
     white-space: pre;
 }
 #note-5 {
