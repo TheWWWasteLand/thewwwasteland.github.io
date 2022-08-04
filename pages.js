@@ -87,10 +87,11 @@ function prevPage() {
 };
 
 function finalVer() {
-  var i, one, two;
+  var i, one, two, three;
   i = document.getElementById('page-i');
   one = document.getElementById('page-2');
   two = document.getElementById('page-3');
+  three = document.getElementById('page-4');
   document.getElementById('selectAuthors').classList.remove('hidden');
   if (i.getAttribute('style') != "display: none;") {
     document.getElementById("add-i").classList.toggle('hidden');
