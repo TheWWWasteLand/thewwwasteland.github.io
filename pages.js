@@ -164,6 +164,10 @@ function finalVer() {
     document.getElementById('rdg-20').classList.toggle('highlightPound');
     document.getElementById('rdg-19').classList.toggle('highlight');
     document.getElementById('rdg-23').classList.toggle('highlightPound');
+    document.getElementById('note-7').classList.toggle('hidden');
+    document.getElementById('note-8').classList.toggle('hidden');
+    document.getElementById('note-7').classList.toggle('diagonal');
+    document.getElementById('note-8').classList.toggle('diagonal');
   }
 };
 
