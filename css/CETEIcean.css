@@ -1340,7 +1340,7 @@ input:checked + .slider:before {
     left: 72em;
 }
 #add-10c {
-    top: 33.2em;
+    top: 33.3em;
     left:76em;
 }
 tei-note[rend=diagonal] {
@@ -1359,4 +1359,25 @@ tei-note[rend=diagonal] {
     left: 72em;
     line-height: 0.8em;
     
+}
+#add12a {
+    top: 33.8em;
+    left: 45em;
+}
+#add12b {
+    top: 34.8em;
+    left: 45em;
+}
+#add11{
+    top: 36.8em;
+    left: 45em;
+}
+#add13 {
+    top: 56em;
+    left: 55em;
+}
+#note9 {
+    position:absolute;
+    top: 52em;
+    left: 65em;
 }
