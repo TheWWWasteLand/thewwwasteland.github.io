@@ -1329,3 +1329,15 @@ input:checked + .slider:before {
     top: 26.5em;
     left: 49em;
 }    
+#add-10a {
+    top: 33.5em;
+    left: 48em;
+}
+#add-10b {
+    top: 33.5em;
+    left: 52em;
+}
+#add-10c {
+    top: 33.5em;
+    left:56em;
+}
