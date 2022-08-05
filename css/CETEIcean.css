@@ -1330,14 +1330,27 @@ input:checked + .slider:before {
     left: 49em;
 }    
 #add-10a {
-    top: 33.2em;
-    left: 63em;
+    top: 33.3em;
+    left: 68em;
 }
 #add-10b {
-    top: 33.2em;
-    left: 67em;
+    top: 33.3em;
+    left: 72em;
 }
 #add-10c {
     top: 33.2em;
-    left:71em;
+    left:76em;
+}
+.tei-note[rend=diagonal] {
+    transform: rotate(-35deg);
+}
+#note-7 {
+    position:absolute;
+    top: 33.3em;
+    left: 81em;
+}
+#note-8 {
+    position:absolute;
+    top: 35em;
+    left: 70em;
 }
