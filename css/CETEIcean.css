@@ -1306,20 +1306,22 @@ input:checked + .slider:before {
     top: 8.5em;
     padding-left: 50em;
 }
-
-#pound-1 {
+#pound-1,#pound-2, #pound-3 {
     position: absolute;
-    top: 26em;
-    left: 48.5em;
     height: 2.7em;
     width: 2.7em;
 }
+#pound-1 {   
+    top: 26em;
+    left: 48.5em;
+}
 #pound-2 {
-    position: absolute;
     top: 26em;
     left: 66em;
-    height: 2.7em;
-    width: 2.7em;
+}
+#pound-3 {
+    top: 38.2em;
+    left: 66.8em;
 }
 #add-8 {
     top: 7.2em;
