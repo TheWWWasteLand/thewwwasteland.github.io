@@ -167,6 +167,7 @@ function finalVer() {
     document.getElementById('note-7').classList.toggle('hidden');
     document.getElementById('note-8').classList.toggle('hidden');
     document.getElementById('note-7').classList.toggle('diagonal');
+    document.getElementById('note-7').classList.toggle('highlight');
     document.getElementById('note-8').classList.toggle('diagonal');
   }
 };
