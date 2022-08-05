@@ -281,7 +281,7 @@
                 </note>
                 <note xml:id="note-8" hand="Pound" rend="diagonal">
                     <lg>
-                        <l>Blake</l>
+                        <l><hi xml:id="under-3">Blake</hi></l>
                         <l>Too</l>
                         <l><rdg xml:id="rdg-note-1">old</rdg><rdg xml:id="rdg-note-2">often</rdg></l>
                         <l>used</l>
