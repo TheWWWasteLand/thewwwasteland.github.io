@@ -169,6 +169,7 @@ function finalVer() {
     document.getElementById('note-7').classList.toggle('diagonal');
     document.getElementById('note-7').classList.toggle('highlightPound');
     document.getElementById('note-8').classList.toggle('diagonal');
+    document.getElementById('under-3').classList.toggle('underline');
   }
 };
 
