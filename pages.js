@@ -151,7 +151,11 @@ function finalVer() {
     document.getElementById('add-7').classList.toggle('hidden');
     document.getElementById('del-16').classList.toggle('line-del');
     document.getElementById('del-17').classList.toggle('line-del');
-    document.getElementById('del-18').classList.toggle('line-del');
+    document.getElementById('del-18a').classList.toggle('line-del');
+    document.getElementById('del-18b').classList.toggle('line-del');
+    document.getElementById('del-19a').classList.toggle('line-del');
+    document.getElementById('del-19b').classList.toggle('line-del');
+    document.getElementById('del-19c').classList.toggle('line-del');
     document.getElementById('add-8').classList.toggle('hidden');  
     document.getElementById('rdg-20').classList.toggle('highlightPound');
     document.getElementById('rdg-19').classList.toggle('highlight');
