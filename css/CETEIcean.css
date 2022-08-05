@@ -1312,15 +1312,15 @@ input:checked + .slider:before {
 }
 #pound-1 {
     position: absolute;
-    top: 26.5em;
-    left: 48em;
-    height: 3.5em;
-    width: 3.5em;
+    top: 25.5em;
+    left: 48.5em;
+    height: 3.2em;
+    width: 3.2em;
 }
 #pound-2 {
     position: absolute;
-    top: 26.5em;
-    left: 63em;
-    height: 3.5em;
-    width: 3.5em;
+    top: 25.5em;
+    left: 66em;
+    height: 3.2em;
+    width: 3.2em;
 }
