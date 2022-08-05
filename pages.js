@@ -169,11 +169,21 @@ function finalVer() {
     document.getElementById('del-19a').classList.toggle('line-del');
     document.getElementById('del-19b').classList.toggle('line-del');
     document.getElementById('del-19c').classList.toggle('line-del');
+    document.getElementById('del-20').classList.toggle('line-del');
+    document.getElementById('del-21a').classList.toggle('line-del');
+    document.getElementById('del-21b').classList.toggle('line-del');
+    document.getElementById('del-22a').classList.toggle('line-del');
+    document.getElementById('del-22b').classList.toggle('line-del');
     document.getElementById('add-10a').classList.toggle('hidden');  
     document.getElementById('add-10b').classList.toggle('hidden');  
     document.getElementById('add-10c').classList.toggle('hidden');  
     document.getElementById('add-8').classList.toggle('hidden'); 
-    document.getElementById('add-9').classList.toggle('hidden');  
+    document.getElementById('add-9').classList.toggle('hidden'); 
+    document.getElementById('add-11').classList.toggle('hidden');  
+    document.getElementById('add-11').classList.toggle('diagonal');  
+    document.getElementById('add-12a').classList.toggle('hidden');  
+    document.getElementById('add-12b').classList.toggle('hidden');  
+    document.getElementById('add-13').classList.toggle('hidden');  
     document.getElementById('rdg-20').classList.toggle('highlightPound');
     document.getElementById('rdg-19').classList.toggle('highlight');
     document.getElementById('rdg-23').classList.toggle('highlightPound');
@@ -182,7 +192,11 @@ function finalVer() {
     document.getElementById('note-7').classList.toggle('diagonal');
     document.getElementById('note-7').classList.toggle('highlightPound');
     document.getElementById('note-8').classList.toggle('diagonal');
+    document.getElementById('note-9').classList.toggle('hidden');
     document.getElementById('under-3').classList.toggle('underline');
+    document.getElementById('under-4a').classList.toggle('underline');
+    document.getElementById('under-4b').classList.toggle('underline');
+    document.getElementById('under-4c').classList.toggle('underline');
   }
 };
 
