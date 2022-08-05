@@ -174,6 +174,7 @@ function finalVer() {
     document.getElementById('del-21b').classList.toggle('line-del');
     document.getElementById('del-22a').classList.toggle('line-del');
     document.getElementById('del-22b').classList.toggle('line-del');
+    document.getElementById('del-23').classList.toggle('line-del');
     document.getElementById('add-10a').classList.toggle('hidden');  
     document.getElementById('add-10b').classList.toggle('hidden');  
     document.getElementById('add-10c').classList.toggle('hidden');  
