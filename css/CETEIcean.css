@@ -35,10 +35,10 @@ tei-add[hand=TEliot], tei-note[hand=TEliot] {
 tei-hi[hand=TEliot] {
     text-decoration-color:  #ef476f;
 }
-tei-del[hand=Pound], tei-hi[hand=Pound], tei-rdg[hand=Pound], tei-note[hand=Pound] {
+tei-del[hand=Pound], tei-hi[hand=Pound], tei-rdg[hand=Pound] {
     text-decoration-color: #118ab2 !important;
 }
-tei-add[hand=Pound] {
+tei-add[hand=Pound], tei-note[hand=Pound] {
     color: #118ab2;
     text-decoration-color:  #118ab2;
 }
@@ -1348,9 +1348,13 @@ tei-note[rend=diagonal] {
     position:absolute;
     top: 33.3em;
     left: 81em;
+    line-height: 1em !important;
+    padding-bottom: 0em !important;
 }
 #note-8 {
     position:absolute;
     top: 35em;
-    left: 70em;
+    left: 72em;
+    line-height: 0.8em;
+    
 }
