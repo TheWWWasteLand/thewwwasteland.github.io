@@ -1319,4 +1319,6 @@ input:checked + .slider:before {
     position: absolute;
     top: 20em;
     left: 55em;
+    height: 3.5em;
+    width: 3.5em;
 }
