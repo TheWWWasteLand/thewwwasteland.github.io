@@ -1310,4 +1310,13 @@ input:checked + .slider:before {
     top: 7.2em;
     padding-left: 51em;
 }
-    
+#pound-1 {
+    position: absolute;
+    top: 20em;
+    left: 45em;
+}
+#pound-2 {
+    position: absolute;
+    top: 20em;
+    left: 55em;
+}
