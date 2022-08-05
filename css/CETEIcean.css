@@ -1321,5 +1321,11 @@ input:checked + .slider:before {
     height: 2.7em;
     width: 2.7em;
 }
-
-    
+#add-8 {
+    top: 7.2em;
+    padding-left: 51em;
+}
+#add-9 {
+    top: 26.5em;
+    left: 49em;
+}    
