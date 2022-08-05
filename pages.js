@@ -156,9 +156,13 @@ function finalVer() {
     document.getElementById('del-19a').classList.toggle('line-del');
     document.getElementById('del-19b').classList.toggle('line-del');
     document.getElementById('del-19c').classList.toggle('line-del');
+    document.getElementById('add-9a').classList.toggle('hidden');  
+    document.getElementById('add-9b').classList.toggle('hidden');  
+    document.getElementById('add-9c').classList.toggle('hidden');  
     document.getElementById('add-8').classList.toggle('hidden');  
     document.getElementById('rdg-20').classList.toggle('highlightPound');
     document.getElementById('rdg-19').classList.toggle('highlight');
+    document.getElementById('rdg-23').classList.toggle('highlightPound');
   }
 };
 
