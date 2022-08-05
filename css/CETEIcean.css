@@ -1330,14 +1330,14 @@ input:checked + .slider:before {
     left: 49em;
 }    
 #add-10a {
-    top: 33.5em;
-    left: 48em;
+    top: 33.2em;
+    left: 63em;
 }
 #add-10b {
-    top: 33.5em;
-    left: 52em;
+    top: 33.2em;
+    left: 67em;
 }
 #add-10c {
-    top: 33.5em;
-    left:56em;
+    top: 33.2em;
+    left:71em;
 }
