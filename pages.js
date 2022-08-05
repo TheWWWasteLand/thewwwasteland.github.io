@@ -143,6 +143,7 @@ function finalVer() {
   else if (three.getAttribute('style') == "display: block;") {
     document.getElementById('add-7').classList.toggle('hidden');
     document.getElementById('del-16').classList.toggle('line-del');
+    document.getElementById('del-16').classList.toggle('line-del');
     document.getElementById('add-8').classList.toggle('hidden');  
     document.getElementById('rdg-20').classList.toggle('highlightPound');
     document.getElementById('rdg-19').classList.toggle('highlight');
