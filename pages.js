@@ -144,8 +144,10 @@ function finalVer() {
     const pound1 = document.createElement("img"), pound2 = document.createElement("img");
     pound1.setAttribute('src', 'https://thewwwasteland.github.io/images/pound1.png');
     pound1.setAttribute('id', 'pound-1');
+    document.body.appendChild(pound1);
     pound2.setAttribute('src', 'https://thewwwasteland.github.io/images/pound2.png');
     pound2.setAttribute('id', 'pound-2');
+    document.body.appendChild(pound2);
     document.getElementById('add-7').classList.toggle('hidden');
     document.getElementById('del-16').classList.toggle('line-del');
     document.getElementById('del-17').classList.toggle('line-del');
