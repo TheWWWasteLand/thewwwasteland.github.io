@@ -1313,7 +1313,7 @@ input:checked + .slider:before {
 #pound-1 {
     position: absolute;
     top: 26.5em;
-    left: 45em;
+    left: 48em;
     height: 3.5em;
     width: 3.5em;
 }
