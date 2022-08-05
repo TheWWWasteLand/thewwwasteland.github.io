@@ -274,6 +274,19 @@
                     <l>"Or with his nails he'll dig it up again!</l>
                     <l>"You! hypocrite lecteur, -mon semblable,-mon frère!"</l>
                 </lg>
+                <note xml:id="note-7" hand="Pound" rend="diagonal">
+                    <lg>
+                        <l>J.J.</l>
+                    </lg>
+                </note>
+                <note xml:id="note-8" hand="Pound" rend="diagonal">
+                    <lg>
+                        <l>Blake</l>
+                        <l>Too</l>
+                        <l><rdg xml:id="rdg-note-1">old</rdg><rdg xml:id="rdg-note-2">often</rdg></l>
+                        <l>used</l>
+                    </lg>
+                </note>
             </div>
             <div xml:id="page-5">
                 <p>
