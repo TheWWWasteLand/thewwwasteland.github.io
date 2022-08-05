@@ -270,7 +270,7 @@
                     <l>"That corpse you planted last year in your garden,</l>
                     <l>"Has it begun to sprout <add xml:id="add-13" hand="TEliot">yet?</add>? Will it bloom this year?"</l>
                     <l>"Or has the sudden frost disturbed its bed?"</l>
-                    <l>"Oh keep the Dog far hence, that's <del xml:id="del-23">foe</del> to men,</l>
+                    <l>"Oh keep the Dog far hence, that's <del xml:id="del-23" hand="TEliot">foe</del> to men,</l>
                     <l>"Or with his nails he'll dig it up again!</l>
                     <l>"You! <hi xml:id="under-4a" hand="TEliot">hypocrite lecteur</hi>,-<hi xml:id="under-4b" hand="TEliot">mon semblable</hi>,-<hi xml:id="under-4c" hand="TEliot">mon frère</hi>!"</l>
                 </lg>
