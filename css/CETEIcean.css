@@ -1306,10 +1306,7 @@ input:checked + .slider:before {
     top: 8.5em;
     padding-left: 50em;
 }
-#add-8 {
-    top: 7.2em;
-    padding-left: 51em;
-}
+
 #pound-1 {
     position: absolute;
     top: 26em;
@@ -1324,8 +1321,5 @@ input:checked + .slider:before {
     height: 2.7em;
     width: 2.7em;
 }
-#add-8 {
-    top: 26.5em;
-    left: 49em;
-}
+
     
