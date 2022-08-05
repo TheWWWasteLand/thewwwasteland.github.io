@@ -10,13 +10,14 @@ window.onload = function() {
 };
 
 function nextPage() {
-  var i, one, two, three, four, five, autList, pageList, secList;
+  var i, one, two, three, four, five, six, autList, pageList, secList;
   i = document.getElementById('page-i');
   one = document.getElementById('page-2');
   two = document.getElementById('page-3');
   three = document.getElementById('page-4');
   four = document.getElementById('page-5');
   five = document.getElementById('page-6');
+  six = document.getElementById('page-7');
   autList = document.getElementById('selectAuthors');
   pageList = document.getElementById('pageList');
   secList = document.getElementById('secList')
@@ -52,16 +53,21 @@ function nextPage() {
     four.style.display="none";
     five.style.display="block";
   }
+  else if (five.getAttribute('style') == "display: block;") {
+    five.style.display="none";
+    six.style.display="block";
+  }
 };
 
 function prevPage() {
-  var i, one, two, three, four, five;;
+  var i, one, two, three, four, five, six;
   i = document.getElementById('page-i');
   one = document.getElementById('page-2');
   two = document.getElementById('page-3');
   three = document.getElementById('page-4');
   four = document.getElementById('page-5');
-  five = document.getElementById('page-6')
+  five = document.getElementById('page-6');
+  six = document.getElementById('page-7');
   if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
     i.style.display="block";
@@ -83,6 +89,10 @@ function prevPage() {
   else if (five.getAttribute('style') == "display: block;") {
     five.style.display="none";
     four.style.display="block";
+  }
+  else if (six.getAttribute('style') == "display: block;") {
+    six.style.display="none";
+    five.style.display="block";
   }
 };
 
