@@ -1323,6 +1323,17 @@ input:checked + .slider:before {
     top: 38.2em;
     left: 66.8em;
 }
+#teliot-1, #teliot-2 {
+    position: absolute;
+}
+#teliot-1 {
+    top: 33.3em;
+    left: 25.7em;
+}    
+#teliot-2 {
+    top: 33.5em;
+    left: 25.3em;
+}
 #add-8 {
     top: 7.2em;
     padding-left: 51em;
