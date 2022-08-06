@@ -235,7 +235,6 @@ function finalVer() {
     document.getElementById('del-33').classList.toggle('line-del');
     document.getElementById('del-32').classList.toggle('line-del');
     document.getElementById('rdg-25').classList.toggle('highlightPound');
-    document.getElementById('highlight-1').classList.toggle('highlightPound');
     document.getElementById('highlight-2a').classList.toggle('highlightPound');
     document.getElementById('highlight-2b').classList.toggle('highlightPound');
     document.getElementById('highlight-2c').classList.toggle('highlightPound');
