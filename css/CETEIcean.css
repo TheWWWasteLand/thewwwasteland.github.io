@@ -1333,8 +1333,8 @@ input:checked + .slider:before {
     width: 8.5em;
 }    
 #teliot-2 {
-    top: 37.3em;
-    left: 48em;
+    top: 37.1em;
+    left: 47.8em;
     width: 6.7em;
 }
 #add-8 {
@@ -1383,7 +1383,7 @@ tei-note[rend=diagonal], tei-add[rend=diagonal], .diagonal {
     left: 46.8em;
 }
 #add-11{
-    top: 38.3em;
+    top: 38.8em;
     left: 46.8em;
 }
 #add-13 {
