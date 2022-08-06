@@ -360,6 +360,7 @@ tei-head {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
+  text-align: center;
 }
 tei-body > tei-head {
   text-indent: -0.5em;
