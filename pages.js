@@ -116,6 +116,7 @@ function finalVer() {
   one = document.getElementById('page-2');
   two = document.getElementById('page-3');
   three = document.getElementById('page-4');
+  four = document.getElementById('page-5');
   document.getElementById('selectAuthors').classList.remove('hidden');
   if (i.getAttribute('style') != "display: none;") {
     document.getElementById("add-i").classList.toggle('hidden');
@@ -219,6 +220,27 @@ function finalVer() {
     document.getElementById('under-4a').classList.toggle('underline');
     document.getElementById('under-4b').classList.toggle('underline');
     document.getElementById('under-4c').classList.toggle('underline');
+  }
+  else if (four.getAttribute('style') == "display: block;") {
+    document.getElementById('del-24').classList.toggle('line-del');
+    document.getElementById('del-25').classList.toggle('line-del');
+    document.getElementById('del-26').classList.toggle('line-del');
+    document.getElementById('del-27').classList.toggle('line-del');
+    document.getElementById('del-28').classList.toggle('line-del');
+    document.getElementById('del-29').classList.toggle('line-del');
+    document.getElementById('del-30a').classList.toggle('line-del');
+    document.getElementById('del-30b').classList.toggle('line-del');
+    document.getElementById('del-30c').classList.toggle('line-del');
+    document.getElementById('del-31').classList.toggle('line-del');
+    document.getElementById('del-32').classList.toggle('line-del');
+    document.getElementById('rdg-25').classList.toggle('highlightPound');
+    document.getElementById('highlight-1a').classList.toggle('highlightPound');
+    document.getElementById('highlight-1b').classList.toggle('highlightPound');
+    document.getElementById('highlight-1c').classList.toggle('highlightPound');
+    document.getElementById('highlight-2').classList.toggle('highlightPound');
+    document.getElementById('highlight-3').classList.toggle('highlightPound');
+    document.getElementById('highlight-4').classList.toggle('highlightPound');
+    document.getElementById('rdg-25').classList.toggle('highlightPound');
   }
 };
 
