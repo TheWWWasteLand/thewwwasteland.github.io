@@ -151,7 +151,7 @@ function finalVer() {
     document.getElementById('note-5').classList.toggle('hidden');
   }
   else if (three.getAttribute('style') == "display: block;") {
-    const pound1 = document.createElement("img"), pound2 = document.createElement("img"), pound3 = document.createElement("img");
+    const pound1 = document.createElement("img"), pound2 = document.createElement("img"), pound3 = document.createElement("img"), teliot1 = document.createElement("img"), teliot2 = document.createElement("img");
     pound1.setAttribute('src', 'https://thewwwasteland.github.io/images/pound1.png');
     pound1.setAttribute('id', 'pound-1');
     document.body.appendChild(pound1);
@@ -161,6 +161,12 @@ function finalVer() {
     pound3.setAttribute('src', 'https://thewwwasteland.github.io/images/pound2.png');
     pound3.setAttribute('id', 'pound-3');
     document.body.appendChild(pound3);
+    teliot1.setAttribute('src', 'https://thewwwasteland.github.io/images/TEliot1.png');
+    teliot1.setAttribute('id', 'teliot-1');
+    document.body.appendChild(teliot1);
+    teliot2.setAttribute('src', 'https://thewwwasteland.github.io/images/TEliot2.png');
+    teliot2.setAttribute('id', 'teliot-2');
+    document.body.appendChild(teliot2);
     document.getElementById('add-7').classList.toggle('hidden');
     document.getElementById('del-16').classList.toggle('line-del');
     document.getElementById('del-17').classList.toggle('line-del');
