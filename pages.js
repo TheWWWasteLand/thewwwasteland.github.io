@@ -164,8 +164,9 @@ function finalVer() {
     teliot1.setAttribute('src', 'https://thewwwasteland.github.io/images/TEliot1.png');
     teliot1.setAttribute('id', 'teliot-1');
     document.body.appendChild(teliot1);
-    teliot2.setAttribute('src', 'https://thewwwasteland.github.io/images/TEliot2.png');
+    teliot2.setAttribute('src', 'https://thewwwasteland.github.io/images/TEliot1.png');
     teliot2.setAttribute('id', 'teliot-2');
+    teliot2.setAttribute('class', 'diagonal');
     document.body.appendChild(teliot2);
     document.getElementById('add-7').classList.toggle('hidden');
     document.getElementById('del-16').classList.toggle('line-del');
