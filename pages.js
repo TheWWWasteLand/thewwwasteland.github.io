@@ -9,6 +9,20 @@ window.onload = function() {
   }
 };
 
+document.onkeydown = checkKey;
+
+function checkKey(e) {
+
+    e = e || window.event;
+
+    if (e.keyCode == '39') {
+        nextPage();
+    }
+    else if (e.keyCode == '37') {
+        prevPage();
+    }
+};
+
 function nextPage() {
   var i, one, two, three, four, five, six, autList, pageList, secList;
   i = document.getElementById('page-i');
