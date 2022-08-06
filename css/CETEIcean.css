@@ -1327,14 +1327,15 @@ input:checked + .slider:before {
     position: absolute;
 }
 #teliot-1 {
-    top: 33.9em;
+    top: 34.3em;
     left: 48.5em;
     width: 9em;
+    height: 10px;
 }    
 #teliot-2 {
-    top: 34.5em;
+    top: 35em;
     left: 48em;
-    width: 10em;
+    width: 7em;
 }
 #add-8 {
     top: 7.2em;
