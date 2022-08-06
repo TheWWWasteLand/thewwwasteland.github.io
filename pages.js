@@ -228,10 +228,11 @@ function finalVer() {
     document.getElementById('del-27').classList.toggle('line-del');
     document.getElementById('del-28').classList.toggle('line-del');
     document.getElementById('del-29').classList.toggle('line-del');
-    document.getElementById('del-30a').classList.toggle('line-del');
-    document.getElementById('del-30b').classList.toggle('line-del');
-    document.getElementById('del-30c').classList.toggle('line-del');
-    document.getElementById('del-31').classList.toggle('line-del');
+    document.getElementById('del-30').classList.toggle('line-del');
+    document.getElementById('del-31a').classList.toggle('line-del');
+    document.getElementById('del-31b').classList.toggle('line-del');
+    document.getElementById('del-31c').classList.toggle('line-del');
+    document.getElementById('del-33').classList.toggle('line-del');
     document.getElementById('del-32').classList.toggle('line-del');
     document.getElementById('rdg-25').classList.toggle('highlightPound');
     document.getElementById('highlight-1a').classList.toggle('highlightPound');
