@@ -913,7 +913,6 @@ html {
 
 img {
     width: calc(48vw - 12em);
-    height:1100px;
     margin-right: 3em
 }
 tei-line, tei-l {
