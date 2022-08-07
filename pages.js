@@ -79,7 +79,7 @@ function nextPage() {
 };
 
 function prevPage() {
-  var i, one, two, three, four, five, six;
+  var i, one, two, three, four, five, six, seven;
   i = document.getElementById('page-i');
   one = document.getElementById('page-2');
   two = document.getElementById('page-3');
@@ -87,6 +87,7 @@ function prevPage() {
   four = document.getElementById('page-5');
   five = document.getElementById('page-6');
   six = document.getElementById('page-7');
+  seven = document.getElementById('page-8');
   if (one.getAttribute('style') == "display: block;") {
     one.style.display="none";
     i.style.display="block";
