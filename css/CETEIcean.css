@@ -912,7 +912,7 @@ html {
 }
 
 img {
-    width: calc(48vw-12em);
+    width: calc(48vw - 12em);
     margin-right: 3em
 }
 tei-line, tei-l {
