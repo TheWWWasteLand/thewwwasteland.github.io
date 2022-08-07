@@ -24,7 +24,7 @@ function checkKey(e) {
 };
 
 function nextPage() {
-  var i, one, two, three, four, five, six, autList, pageList, secList;
+  var i, one, two, three, four, five, six, seven, autList, pageList, secList;
   i = document.getElementById('page-i');
   one = document.getElementById('page-2');
   two = document.getElementById('page-3');
@@ -32,6 +32,7 @@ function nextPage() {
   four = document.getElementById('page-5');
   five = document.getElementById('page-6');
   six = document.getElementById('page-7');
+  seven = document.getElementById('page-8');
   autList = document.getElementById('selectAuthors');
   pageList = document.getElementById('pageList');
   secList = document.getElementById('secList')
@@ -71,6 +72,10 @@ function nextPage() {
     five.style.display="none";
     six.style.display="block";
   }
+  else if (six.getAttribute('style') == "display: block;") {
+    six.style.display="none";
+    seven.style.display="block";
+  }
 };
 
 function prevPage() {
@@ -107,6 +112,10 @@ function prevPage() {
   else if (six.getAttribute('style') == "display: block;") {
     six.style.display="none";
     five.style.display="block";
+  }
+  else if (seven.getAttribute('style') == "display: block;") {
+    seven.style.display="none";
+    six.style.display="block";
   }
 };
 
