@@ -371,16 +371,16 @@
                     <line>2<lb/></line>
                 </head>
                 <lg>
-                    <l>                                        Carrying</l>
-                    <l>Away the little light dead people.</l>
+                    <l>                                                  Carrying</l>
+                    <l>Away the <hi xml:id="highlight-7" rend="highlight" hand="Pound">little</hi> light dead people.</l>
                 </lg>
                 <lg>
-                    <l>"Do you know nothing? Do you see nothing? Do you remember</l>
+                    <l>"<del xml:id="del-40a" hand="TEliot">Do</del> <subst xml:id="sub-10"><del xml:id="del-40b" hand="Pound">y</del><add xml:id="add-16">Y</add>ou know nothing? Do you see nothing? Do you remember</l>
                     <l>"Nothing?"</l>
                 </lg>
                 <lg>
-                    <l>           I remember</l>
-                    <l>The hyacinth garden. Those are pearls that were his eyes, yes!</l>
+                    <l>                 I remember</l>
+                    <l>The hyacinth garden. Those are pearls that were his eyes, <hi xml:id="highlight-8" rend="highlight" hand="Pound"><del xml:id="del-41" hand="Pound">yes!</del></hi></l>
                 </lg>
                 <lg>
                     <l>"Are you alive, or not? Is there nothing in your head?"</l>
@@ -398,14 +398,14 @@
                     <l>"What shall we ever do?"</l>
                 </lg>
                 <lg>
-                    <l>                           The hot water at ten.</l>
-                    <l>And if it rains, the closed carriage at four.</l>
+                    <l>                                   The hot water at ten.</l>
+                    <l>And if it rains, the <hi xml:id="highlight-9" rend="highlight" hand="Pound">closed carriage</hi> at four.</l>
                     <l>And we shall play a game of chess:</l>
                     <l>The ivory men make company between us</l>
                     <l>Pressing lidless eyes and waiting for a knock upon the door.</l>
                 </lg>
                 <lg>
-                    <l>When Lil's husband was coming back out of the Transport Corps</l>
+                    <l>When Lil's husband was <del xml:id="del-42" hand="VEliot">coming back out of the <hi xml:id="highlight-10" hand="VEliot" rend="highlight">Transport Corps</hi></del></l>
                     <l>I didn't mince my words, I said to her myself,</l>
                     <l>HURRY UP PLEASE IT'S TIME</l>
                     <l>"Now Albert's coming back, make yourself a bit smart.</l>
@@ -415,7 +415,7 @@
                     <l>He said, "I swear, I can't bear to look at you".</l>
                     <l>"And no more can I", I said, "and think of poor Albert,</l>
                     <l>"He's been in the army four years, he wants a good time,</l>
-                    <l>"And if you don't give it him, there's many another will".</l>
+                    <l>"And if you don't give it him, there<hi xml:id="highlight-11" rend="highlight" hand="Pound">'s many another</hi> will".</l>
                     <l>"Other women", she said. "Something of that", I said.</l>
                     <l>"Then I'll know who to thank, she said, and gave me a straight look.</l>
                     <l>HURRY UP PLEASE IT'S TIME.</l>
@@ -450,6 +450,71 @@
                     <l>Good night, Bill.   Good night, Lou.   Good night, George. Good night.</l>
                     <l>Ta ta.   Good night.   Good night.</l>
                     <l>Good night, ladies, good night, sweet ladies, good night, good night.</l>
+                </lg>
+            </div>
+            <div xml:id="page-8">
+                <p>
+                    <head>
+                        <line>HE DO THE POLICE IN DIFFERENT VOICES: Part II.<lb/></line>
+                        <line><lb/></line>
+                        <line><rdg><subst><del hand="TEliot">IN THE CAGE.</del><add place="above" hand="TEliot">A Game of Chess.</add></subst></rdg><lb/></line>
+                    </head>
+                </p>
+                <lg>
+                    <l>The Chair she sat in, like a burnished throne</l>
+                    <l>Glowed on the marble, where the swinging glass</l>
+                    <l>Held up by standards wrought with golden vines</l>
+                    <l>From which one tender Cupidon peeped out</l>
+                    <l>(Another hid his eyes behind his wing)</l>
+                    <l>Doubled the flames of seven-branched candelabra</l>
+                    <l>Reflecting light upon the table where as</l>
+                    <l>The glitter of her jewels rose to meet it, it,</l>
+                    <l>From satin cases poured in rich profusion;</l>
+                    <l>In vials of ivory and coloured glass</l>
+                    <l>Unstopped, lurked her strange synthetic perfumes</l>
+                    <l>Unguent, powdered, or liquid -troubled, confused</l>
+                    <l>And drowned the sense in odours; stirred by the air</l>
+                    <l>That freshened from the window, these ascended,</l>
+                    <l>Fattening the candles flames, which wereprolonged,</l>
+                    <l>And flung their smoke into the laquenaria,</l>
+                    <l>Stirring the pattern on the coffered ceiling.</l>
+                    <l>Upon the hearth huge sea-wood fed with copper</l>
+                    <l>Burned green and orange, framed by the coloured stone,</l>
+                    <l>In which sad light a carved dolphin swam;</l>
+                    <l>Above the antique mantel was displayed</l>
+                    <l>In pigment, but so lively, you had thought</hi></del></l>
+                    <l>A window gave upon the sylvan scene,</l>
+                    <l>The change of Philomel, by the barbarous king</l>
+                    <l>So rudely forced, yet still there the nightingale</l>
+                    <l>Filled all the desert with inviolable voice</l>
+                    <l>And still she cried (and still the world pursues)</l>
+                    <l>Jug Jug, into the dirty ear of death;</l>
+                    <l>And other tales, from the old stumps and bloody ends of time</l>
+                    <l>Were told upon the walls, where staring forms</l>
+                    <l>Leaned out, and hushed the room and closed it in.</l>
+                    <l>There were footsteps on the stair,</l>
+                    <l>Under the firelight, under the brush, her hair</l>
+                    <l>Spread out in little fiery points of will,</l>
+                    <l>Glowed into words, then would be savagely still.</l>
+                </lg>
+                <lg>
+                    <l>"My nerves are bad tonight. Yes, bad. Stay with me.</l>
+                    <l>"Speak to me. Why do you never speak. Speak.</l>
+                    <l>"What are you thinking of? What thinking? Think What?</l>
+                    <l>"I never know what you are thinking. Think".</l>
+                </lg>
+                <lg>
+                    <l>I think we met first in rats' alley,</l>
+                    <l>Ehere the dead men lost their bones.</l>
+                </lg>
+                <lg>
+                    <l>"What is that noise?"</l>
+                </lg>
+                <lg>
+                    <l>                      The wind under the door.</l>
+                </lg>
+                <lg>
+                    <l>"What is that noise now? What is the wind doing?"</l>
                 </lg>
             </div>
         </body>
