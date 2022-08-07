@@ -1214,7 +1214,13 @@ input:checked + .red {
 input:focus + .red {
   box-shadow: 0 0 1px #ef476f;
 }
+input:checked + .carbon {
+  background-color: #073b4c;
+}
 
+input:focus + .carbon {
+  box-shadow: 0 0 1px #073b4c;
+}
 input:checked + .slider:before {
   -webkit-transform: translateX(24px);
   -ms-transform: translateX(24px);
