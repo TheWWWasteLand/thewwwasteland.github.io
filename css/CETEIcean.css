@@ -1155,7 +1155,7 @@ tei-lg {
     display: block;
     padding-bottom: 1.5em;
 }
-div > tei-lg {
+tei-div > tei-lg {
     margin-left: 50em;
 }
 .switch {
