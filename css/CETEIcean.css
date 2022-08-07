@@ -1147,6 +1147,7 @@ tei-add {
     top: 38em;
 }
 tei-lg {
+    margin-left: 50em;
     display: block;
     padding-bottom: 1.5em;
 }
