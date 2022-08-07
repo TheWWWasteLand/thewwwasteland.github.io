@@ -232,8 +232,15 @@ function finalVer() {
     document.getElementById('del-31a').classList.toggle('line-del');
     document.getElementById('del-31b').classList.toggle('line-del');
     document.getElementById('del-31c').classList.toggle('line-del');
-    document.getElementById('del-33').classList.toggle('line-del');
     document.getElementById('del-32').classList.toggle('line-del');
+    document.getElementById('del-33').classList.toggle('line-del');
+    document.getElementById('del-34a').classList.toggle('line-del');
+    document.getElementById('del-34b').classList.toggle('line-del');
+    document.getElementById('del-35').classList.toggle('line-del');
+    document.getElementById('del-36').classList.toggle('line-del');
+    document.getElementById('del-37').classList.toggle('line-del');
+    document.getElementById('del-38').classList.toggle('line-del');
+    document.getElementById('del-39').classList.toggle('line-del');
     document.getElementById('highlight-1').classList.toggle('highlightPound');   
     document.getElementById('highlight-2a').classList.toggle('highlightPound');
     document.getElementById('highlight-2b').classList.toggle('highlightPound');
@@ -241,6 +248,7 @@ function finalVer() {
     document.getElementById('highlight-3').classList.toggle('highlightPound');
     document.getElementById('highlight-4').classList.toggle('highlightPound');
     document.getElementById('highlight-5').classList.toggle('highlightPound');
+    document.getElementById('highlight-6').classList.toggle('highlightPound');
   }
 };
 
