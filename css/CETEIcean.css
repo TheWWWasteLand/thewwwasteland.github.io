@@ -946,12 +946,14 @@ tei-text {
     padding:1em;
     padding-top: 60px;
 }
+.nbar {
+    background-image: url('https://assets.codepen.io/567707/background-paper-brown.png') !important;
+}
 .bar {
   display:block;
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: rgba(255, 255, 255) !important;
   z-index: 100;
   margin-left: -4.5em !important;
   margin-top: -1em !important;
@@ -983,7 +985,6 @@ tei-text {
     bottom: 0;
     display: block;
     width: 100%;
-    background-color: rgba(255, 255, 255) !important;
     z-index: 100;
 }
 
