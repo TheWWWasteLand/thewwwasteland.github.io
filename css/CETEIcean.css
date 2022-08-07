@@ -1100,10 +1100,6 @@ tei-graphic {
   position:relative;
 }
 
-tei-graphic img {
-    height: 1100px;
-}
-
 .img-magnifier-glass {
   position: absolute;
   border: 1px solid #333;
