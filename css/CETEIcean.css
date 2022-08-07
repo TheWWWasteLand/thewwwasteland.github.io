@@ -1235,16 +1235,22 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
-#selectAuthors {
+#carbonCopy {
+    right: 0;
+    border-top-left-radius: 3px;
+}
+#selectAuthors, #carbonCopy {
     display:block;
     position:fixed;
-    left: 0;
     bottom:4em;
     z-index:101;
     background-color: white;
     width: 300px;
     border: solid 0.5px #000;
-    border-bottom: none;
+    border-bottom: none;    
+}
+#selectAuthors {
+    left:0;
     border-top-right-radius: 3px;
 }
 #selectAuthors p {
