@@ -1348,8 +1348,8 @@ input:checked + .slider:before {
 }
 #pound-4 {
     position: absolute;
-    top: 8em;
-    left: 62em;
+    top: 15em;
+    left: 71em;
     height: 4.5em;
     width: 2px;
 }
@@ -1366,6 +1366,13 @@ input:checked + .slider:before {
     top: 37.1em;
     left: 47.8em;
     width: 6.7em;
+}
+#teliot-3 {
+    position: absolute;
+    top: 15em;
+    left: 76em;
+    width: 9px;
+    height: 15em;
 }
 #add-8 {
     top: 7.2em;
@@ -1403,6 +1410,11 @@ tei-note[rend=diagonal], tei-add[rend=diagonal], .diagonal {
     left: 72em;
     line-height: 0.8em;
     
+}
+#note-10 {
+    position: absolute;
+    top: 10em;
+    left:78em;
 }
 #add-12a {
     top: 33.8em;
