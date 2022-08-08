@@ -264,10 +264,13 @@ function finalVer() {
     document.getElementById('add-15').classList.toggle('hidden');
     document.getElementById('add-16').classList.toggle('hidden');
     document.getElementById('note-10').classList.toggle('hidden');
-    const pound4 = document.createElement("img");
+    const pound4 = document.createElement("img"), teliot3 = document.createElement('img');
     pound4.setAttribute('src', 'https://thewwwasteland.github.io/images/Pound3.png');
     pound4.setAttribute('id', 'pound-4');
     document.body.appendChild(pound4);
+    teliot3.setAttribute('src', 'https://thewwwasteland.github.io/images/TEliot3.png');
+    teliot3.setAttribute('id', 'teliot-3');
+    document.body.appendChild(teliot3);
   }
 };
 
