@@ -1372,7 +1372,7 @@ input:checked + .slider:before {
     top: 15em;
     left: 78.5em;
     width: 9px;
-    height: 15em;
+    height: 38em;
 }
 #add-8 {
     top: 7.2em;
@@ -1414,7 +1414,7 @@ tei-note[rend=diagonal], tei-add[rend=diagonal], .diagonal {
 #note-10 {
     position: absolute;
     top: 10em;
-    left:76.5em;
+    left:75.8em;
 }
 #add-12a {
     top: 33.8em;
