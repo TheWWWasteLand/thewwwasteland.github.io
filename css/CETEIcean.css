@@ -1346,6 +1346,13 @@ input:checked + .slider:before {
     top: 38.2em;
     left: 66.8em;
 }
+#pound-4 {
+    position: absolute;
+    top: 8em;
+    left: 62em;
+    height: 4.5em;
+    width: 2px;
+}
 #teliot-1, #teliot-2 {
     position: absolute;
     height: 4px;
