@@ -287,7 +287,7 @@
                         <l>used</l>
                     </lg>
                 </note>
-                 <note xml:id="note-9" hand="TEliot">
+                <note xml:id="note-9" hand="TEliot">
                     <lg>
                         <l>/friend</l>
                     </lg>
@@ -361,6 +361,13 @@
                 <lg>
                     <l>"What is that noise now? What is the wind doing?"</l>
                 </lg>
+                <note xml:id="note-10" hand="Pound" rend="diagonal">
+                    <lg>
+                        <l><hi xml:id="under-5" rend="underline" hand="Pound">3 lines</hi></l>
+                        <l>Too       tum-pum</l>
+                        <l>          at a stretch</l>
+                    </lg>
+                </note>
             </div>
             <div xml:id="page-6">
                 <p>
