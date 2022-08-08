@@ -260,6 +260,14 @@ function finalVer() {
     document.getElementById('highlight-4').classList.toggle('highlightPound');
     document.getElementById('highlight-5').classList.toggle('highlightPound');
     document.getElementById('highlight-6').classList.toggle('highlightPound');
+    document.getElementById('add-14').classList.toggle('hidden');
+    document.getElementById('add-15').classList.toggle('hidden');
+    document.getElementById('add-16').classList.toggle('hidden');
+    document.getElementById('note-10').classList.toggle('hidden');
+    const pound4 = document.createElement("img");
+    pound4.setAttribute('src', 'https://thewwwasteland.github.io/images/Pound3.png');
+    pound4.setAttribute('id', 'pound-4');
+    document.body.appendChild(pound4);
   }
 };
 
